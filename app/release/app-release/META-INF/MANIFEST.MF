@@ -1,0 +1,2772 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Signflinger
+
+Name: BUNDLE-METADATA/com.android.tools.build.gradle/app-metadata.prop
+ erties
+SHA-256-Digest: EOyGcpF1Eary5NIofJjO9CGhKmeFjO/WYttu1Eo85o0=
+
+Name: BUNDLE-METADATA/com.android.tools.build.libraries/dependencies.p
+ b
+SHA-256-Digest: fWebqqeGkkgx+ooyv1VwfDBohuwLNTaQPbtGIXju0/c=
+
+Name: BUNDLE-METADATA/com.android.tools.build.profiles/baseline.prof
+SHA-256-Digest: MANmzjmSGh/SJD+kOkMibUdz3LpYoPyEMi/3za1RXdM=
+
+Name: BUNDLE-METADATA/com.android.tools.build.profiles/baseline.profm
+SHA-256-Digest: CrV4dVh1eb32T4z58HqnCT/smUTEWu1SInIDY4wpces=
+
+Name: BundleConfig.pb
+SHA-256-Digest: Ceft/UNCN/fSV8Ak+JXw2PzUJ67eUqvZkpPi5wBk1gE=
+
+Name: base/dex/classes.dex
+SHA-256-Digest: LzSN5eP6kT1QdtDJ4wDIqsu1JWPsxhmpxZ5TQB+O3iI=
+
+Name: base/dex/classes2.dex
+SHA-256-Digest: q1uFOklELUzhM8TBNIN7Na6RTM7uDUfFqDEZ+dEDuck=
+
+Name: base/manifest/AndroidManifest.xml
+SHA-256-Digest: i2X583kfGmkviKKSquGg3V6qpmf62WJTNXClir7p3jg=
+
+Name: base/res/anim-v21/fragment_fast_out_extra_slow_in.xml
+SHA-256-Digest: mMWWmImvmwVyS8dM8vkjlQs3c3/cqLaEXfDdJ0ALabw=
+
+Name: base/res/animator/fragment_close_enter.xml
+SHA-256-Digest: bm918E/ElWnbLxV/44SQYogrXHjVEZEEe5x6aMFZE/4=
+
+Name: base/res/animator/fragment_close_exit.xml
+SHA-256-Digest: Tw1yKUVHPFKJsx/EGZz7+Rrt+koATfM7cDGdXEom7W8=
+
+Name: base/res/animator/fragment_fade_enter.xml
+SHA-256-Digest: c/a+z/0uo97N0xQV+IUAY19TfDXW0y0AR2xEs1yrSHY=
+
+Name: base/res/animator/fragment_fade_exit.xml
+SHA-256-Digest: W70raWRVZvg0g1zbZiP4iuOQHRd32j0j++fC4WLKRmE=
+
+Name: base/res/animator/fragment_open_enter.xml
+SHA-256-Digest: AwcrpbrNgCIv1KStGDmSB00b0We1w1Odwh8NLXNGqmI=
+
+Name: base/res/animator/fragment_open_exit.xml
+SHA-256-Digest: WBNl8zql5YpyxRuT8ZEVLAmkflKulNlIuMz6/wFJR9U=
+
+Name: base/res/color/vector_tint_color.xml
+SHA-256-Digest: Wdtst2uixFfKmyLWubsIHp37oDVJv8T3sG11Sou7YhE=
+
+Name: base/res/color/vector_tint_theme_color.xml
+SHA-256-Digest: Rv1cuM+PtVcwLJs1WFAwboYheIHFJyDa3/aVD2Cza1k=
+
+Name: base/res/drawable-anydpi-v21/ic_call_answer.xml
+SHA-256-Digest: cZvCiWDejlNDPKrS2Kzxbp26M4d6UJSWIVV62wvwmkI=
+
+Name: base/res/drawable-anydpi-v21/ic_call_answer_low.xml
+SHA-256-Digest: pAAjKxU6IBaDqG+oXMNUKAoy335w4ZKTeADC/PLpy+E=
+
+Name: base/res/drawable-anydpi-v21/ic_call_answer_video.xml
+SHA-256-Digest: HJTZnk6mCCGW2hl5CQMI542Yn00bBKweEdi5w+xTnd8=
+
+Name: base/res/drawable-anydpi-v21/ic_call_answer_video_low.xml
+SHA-256-Digest: 9Iv3o64oY+ml5jOYvdkNjJZupOCXX1H1z279tjdqp8M=
+
+Name: base/res/drawable-anydpi-v21/ic_call_decline.xml
+SHA-256-Digest: CqDkEOXPnGbdwPLzGSj2M776mvWP4Uxh0cWoSAHkOmo=
+
+Name: base/res/drawable-anydpi-v21/ic_call_decline_low.xml
+SHA-256-Digest: FqtwtGb0hZUF9iX50y5U5VXxK7/aURd8axX/gHE2viM=
+
+Name: base/res/drawable-hdpi-v4/ic_call_answer.png
+SHA-256-Digest: XIDYinuC71gzJVv3D/HCbD77KpKukMrCIvMgD1ngseo=
+
+Name: base/res/drawable-hdpi-v4/ic_call_answer_low.png
+SHA-256-Digest: XIDYinuC71gzJVv3D/HCbD77KpKukMrCIvMgD1ngseo=
+
+Name: base/res/drawable-hdpi-v4/ic_call_answer_video.png
+SHA-256-Digest: atz8ndHhuCuYXSI/yKAcjo8N07kFHTgGJnSyOAr3mlA=
+
+Name: base/res/drawable-hdpi-v4/ic_call_answer_video_low.png
+SHA-256-Digest: atz8ndHhuCuYXSI/yKAcjo8N07kFHTgGJnSyOAr3mlA=
+
+Name: base/res/drawable-hdpi-v4/ic_call_decline.png
+SHA-256-Digest: EuyfmtX6PX2JcRSvbCKXtm8xywVuQ9r/voDSP29mOW0=
+
+Name: base/res/drawable-hdpi-v4/ic_call_decline_low.png
+SHA-256-Digest: EuyfmtX6PX2JcRSvbCKXtm8xywVuQ9r/voDSP29mOW0=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: IfC1UoC+ELGHzv+O3vSlpwR2g+bp/PR95BCqODn0EJQ=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: Qq7gsDiD6U315UM0ijl9EwLBuCIYlYcag7gYmfWpZHs=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: DGMox7JCBXCn7DizvrO6yaKdiVrBq3I5MVq6cmZBhZM=
+
+Name: base/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: GLMo2AF+Z31arT29ZrrjVrXKyXjG8GcJOOpkjlHQ62Y=
+
+Name: base/res/drawable-hdpi-v4/notification_oversize_large_icon_bg.pn
+ g
+SHA-256-Digest: qgAIjQ2f2XvZLtn/0ptUu2mkiphKpzRIzlU/udgSvkE=
+
+Name: base/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: hDDsAD4APz8roveNSP0VDiVAdmflMOguh6fUhBwP1nY=
+
+Name: base/res/drawable-ldpi-v4/ic_call_answer.png
+SHA-256-Digest: bTSouym+JuNDeBYDWIUG8zvRuTcyocG8n9hGeKo2sXg=
+
+Name: base/res/drawable-ldpi-v4/ic_call_answer_low.png
+SHA-256-Digest: bTSouym+JuNDeBYDWIUG8zvRuTcyocG8n9hGeKo2sXg=
+
+Name: base/res/drawable-ldpi-v4/ic_call_answer_video.png
+SHA-256-Digest: ZjVvVk8FGlaOJQcfYNoxLEGDCfkSl3Os6yJGdzRYaBw=
+
+Name: base/res/drawable-ldpi-v4/ic_call_answer_video_low.png
+SHA-256-Digest: ZjVvVk8FGlaOJQcfYNoxLEGDCfkSl3Os6yJGdzRYaBw=
+
+Name: base/res/drawable-ldpi-v4/ic_call_decline.png
+SHA-256-Digest: oYzarzdCsaPU9IT6FdAPo0r7IUlYhDAar6MhMzhmHtY=
+
+Name: base/res/drawable-ldpi-v4/ic_call_decline_low.png
+SHA-256-Digest: oYzarzdCsaPU9IT6FdAPo0r7IUlYhDAar6MhMzhmHtY=
+
+Name: base/res/drawable-mdpi-v4/ic_call_answer.png
+SHA-256-Digest: 8v9i9HPYpeAKi2yBwVvpoFNkccPVqB430EvDNW6oHKA=
+
+Name: base/res/drawable-mdpi-v4/ic_call_answer_low.png
+SHA-256-Digest: 8v9i9HPYpeAKi2yBwVvpoFNkccPVqB430EvDNW6oHKA=
+
+Name: base/res/drawable-mdpi-v4/ic_call_answer_video.png
+SHA-256-Digest: YwYEi6X37KQ+e9re76lBIYBQhIb9VD4C3pPSoBPiI/A=
+
+Name: base/res/drawable-mdpi-v4/ic_call_answer_video_low.png
+SHA-256-Digest: YwYEi6X37KQ+e9re76lBIYBQhIb9VD4C3pPSoBPiI/A=
+
+Name: base/res/drawable-mdpi-v4/ic_call_decline.png
+SHA-256-Digest: foez4CKRJtw8K9rdzY8zDzu192E6BQJMPNZEXdFh94g=
+
+Name: base/res/drawable-mdpi-v4/ic_call_decline_low.png
+SHA-256-Digest: foez4CKRJtw8K9rdzY8zDzu192E6BQJMPNZEXdFh94g=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: L3+9oLpuU+mkfi/A4k4yxEfGE6WAjC1ihdxlHoOgetc=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: 4Xdh7SgO3ZPXFBvVBLcPnp4VqGUiiNnmMzv0zpZO+EQ=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: qGdqF5OsgxD/sSmGIy32bfCS0pwkKu7cK3NVbAENONw=
+
+Name: base/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: mcFNaFW4viltWAF9N1G43IScR7bR2Aq2FP+QdQgORhs=
+
+Name: base/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: DXc+YsdWQiMTJihGx4flj2fg7ofkXhrplCAC6BbEy54=
+
+Name: base/res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: sZLi0Hu0snmkOaUh1d0CmNxIZ4UuDDtOgxVLEviHf0A=
+
+Name: base/res/drawable-xhdpi-v4/ic_call_answer.png
+SHA-256-Digest: 5kwuV2J+JOwe035nNEwr8x0da90tjXFYQMHt8L0UJbY=
+
+Name: base/res/drawable-xhdpi-v4/ic_call_answer_low.png
+SHA-256-Digest: 5kwuV2J+JOwe035nNEwr8x0da90tjXFYQMHt8L0UJbY=
+
+Name: base/res/drawable-xhdpi-v4/ic_call_answer_video.png
+SHA-256-Digest: XQKoEQJkRCjKY5rsPfYm7rSoOandx2/CsViwRGHX8A8=
+
+Name: base/res/drawable-xhdpi-v4/ic_call_answer_video_low.png
+SHA-256-Digest: XQKoEQJkRCjKY5rsPfYm7rSoOandx2/CsViwRGHX8A8=
+
+Name: base/res/drawable-xhdpi-v4/ic_call_decline.png
+SHA-256-Digest: mpowwwUCKi+OB10u19M/XHcRu6jQ0DhVEf22L4nyCOM=
+
+Name: base/res/drawable-xhdpi-v4/ic_call_decline_low.png
+SHA-256-Digest: mpowwwUCKi+OB10u19M/XHcRu6jQ0DhVEf22L4nyCOM=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: PgmvohxFNywDVZjAF8j7QFptZ45suE3IV1gcs7QOSC0=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: IDQyIvn3ndVlw6IkhJTUUucIIKwcQ3Fzw4ut1F+WKv0=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: VZv3g9dlwCM46XlSvcnGaJx/+ZCQuMmBM2kRjaiwgPA=
+
+Name: base/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: 0nr0NRAcpMvsDIQL0waHkYzTnrg6qxSHQghVYjpFmYs=
+
+Name: base/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: tE7to016Upwv5VcZ6wmPopcHyqkdGN4Gp6d11ua8+XM=
+
+Name: base/res/drawable-xxhdpi-v4/ic_call_answer.png
+SHA-256-Digest: hnY6MK8qk0x8E7Ejs2RD0dF5GLccYUm8bugBFbhyWT0=
+
+Name: base/res/drawable-xxhdpi-v4/ic_call_answer_low.png
+SHA-256-Digest: hnY6MK8qk0x8E7Ejs2RD0dF5GLccYUm8bugBFbhyWT0=
+
+Name: base/res/drawable-xxhdpi-v4/ic_call_answer_video.png
+SHA-256-Digest: ykj2BCYvK074sQDHMTDv4q0z74wqLBs1FvJPUbewRmU=
+
+Name: base/res/drawable-xxhdpi-v4/ic_call_answer_video_low.png
+SHA-256-Digest: ykj2BCYvK074sQDHMTDv4q0z74wqLBs1FvJPUbewRmU=
+
+Name: base/res/drawable-xxhdpi-v4/ic_call_decline.png
+SHA-256-Digest: h62tMuDsGcTpIEIL86Bsn5T2Eo7Q2GahiRYorqss7wY=
+
+Name: base/res/drawable-xxhdpi-v4/ic_call_decline_low.png
+SHA-256-Digest: h62tMuDsGcTpIEIL86Bsn5T2Eo7Q2GahiRYorqss7wY=
+
+Name: base/res/drawable-xxxhdpi-v4/ic_call_answer.png
+SHA-256-Digest: 7GmKMhe8502LxKRLsAjy29PRrr/xrx6WQYBRQ9v5+oc=
+
+Name: base/res/drawable-xxxhdpi-v4/ic_call_answer_low.png
+SHA-256-Digest: 7GmKMhe8502LxKRLsAjy29PRrr/xrx6WQYBRQ9v5+oc=
+
+Name: base/res/drawable-xxxhdpi-v4/ic_call_answer_video.png
+SHA-256-Digest: THF84f+1UcdlmBrdZdGVYTLY9SIzfeKGawRfCmBIVCY=
+
+Name: base/res/drawable-xxxhdpi-v4/ic_call_answer_video_low.png
+SHA-256-Digest: THF84f+1UcdlmBrdZdGVYTLY9SIzfeKGawRfCmBIVCY=
+
+Name: base/res/drawable-xxxhdpi-v4/ic_call_decline.png
+SHA-256-Digest: q3O3KbuVh4Ego73I3JFfOqodcHD8ZEoN5k1AlBrVB+0=
+
+Name: base/res/drawable-xxxhdpi-v4/ic_call_decline_low.png
+SHA-256-Digest: q3O3KbuVh4Ego73I3JFfOqodcHD8ZEoN5k1AlBrVB+0=
+
+Name: base/res/drawable/$ic_launcher_foreground__0.xml
+SHA-256-Digest: htuyjdee5WPe7i8J3X1ZUI6q/pNMxz6k/DgRdEVXbsA=
+
+Name: base/res/drawable/abc_vector_test.xml
+SHA-256-Digest: /sewpwSQZMK0S3xBfuBXc7XbFjuiqeQ+Vd2EsZFmX+A=
+
+Name: base/res/drawable/ic_launcher_background.xml
+SHA-256-Digest: uek7V8mVF2qGX1lBbltHBleRdbwDYmLyD6gza1vIFeY=
+
+Name: base/res/drawable/ic_launcher_foreground.xml
+SHA-256-Digest: jqIrgtRoxJvysORjk2HzolpcpsXO2sqGaZjnuBO1CE4=
+
+Name: base/res/drawable/notification_bg.xml
+SHA-256-Digest: lgCkfXKkW4hGimUKctmvXIKxq4zBuYO+bvwXqQi7/T0=
+
+Name: base/res/drawable/notification_bg_low.xml
+SHA-256-Digest: CsJ6at/xl1UDQslq5Po6p3Oupssc6Ycjzevb4JEDvxA=
+
+Name: base/res/drawable/notification_icon_background.xml
+SHA-256-Digest: IwRdOWn8Hb5/CiQ0ucS8j7ckaROGswUWpyvZSto9+Fo=
+
+Name: base/res/drawable/notification_tile_bg.xml
+SHA-256-Digest: rrYcZ6C/ArOOCTviQgub5Wfrq7+7maCCWmJAlt+16yM=
+
+Name: base/res/layout-v21/notification_action.xml
+SHA-256-Digest: zGZ7ahrpNkX8Max2QU3dVRLpA7NXi122ruxoRhiSsSE=
+
+Name: base/res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: ZpeZ7M5t4W96oTTwsscprT/RW70pbHP7sSaWshy/SSI=
+
+Name: base/res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: rBPFS4KXBym6yN7jaVk+ZtzwwRDSe/G8lzdEiKfVcIo=
+
+Name: base/res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: glDzDvKQULqGxQZe6mjNORj8bG9L+dc2rUdxNezprIo=
+
+Name: base/res/layout/custom_dialog.xml
+SHA-256-Digest: Qt6uDcI1DR+WuXpcDLpLFuFMeHtnKQwkSzf7yyfwo64=
+
+Name: base/res/layout/ime_base_split_test_activity.xml
+SHA-256-Digest: QWzhvCV8+lMnhyt8mGdyEFRabpd6qQB8mGLbIh27RJE=
+
+Name: base/res/layout/ime_secondary_split_test_activity.xml
+SHA-256-Digest: f9KJVTXix1GK1h9c9zo4vFZEj/XvZy/8Zjt2j/9ZSEE=
+
+Name: base/res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: Ephw+/c6QjJkPO2Dd/hKXKun4L6ZgAa2PvyNuMvc5qA=
+
+Name: base/res/layout/notification_template_part_time.xml
+SHA-256-Digest: sIr9aTQpg2wv1qkqval0vm583p+71oDZH9RVQiZLUUA=
+
+Name: base/res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: bkWFDbU8DoH8X3HlDr8Uy9qemWZWI8n/DqX1NGx8ayU=
+
+Name: base/res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA-256-Digest: bkWFDbU8DoH8X3HlDr8Uy9qemWZWI8n/DqX1NGx8ayU=
+
+Name: base/res/mipmap-hdpi-v4/ic_launcher.webp
+SHA-256-Digest: 3QCZYZhkDtKPvAnNzXo4B8+HB/PrJVtlljTaPKam/wE=
+
+Name: base/res/mipmap-hdpi-v4/ic_launcher_round.webp
+SHA-256-Digest: Htc/U0GmnTtBx+AuEmgD9QzIwyhK30u7c38Mk1d67wc=
+
+Name: base/res/mipmap-mdpi-v4/ic_launcher.webp
+SHA-256-Digest: hGIZ5vcv6abBBMqJGcvuNqEB59L/janaZ7aJpYiPBg0=
+
+Name: base/res/mipmap-mdpi-v4/ic_launcher_round.webp
+SHA-256-Digest: TixYuR3gETDmR54Ay7qvbnfNlh3SyOMDzxPNB3+pJjI=
+
+Name: base/res/mipmap-xhdpi-v4/ic_launcher.webp
+SHA-256-Digest: OYNA2tgW/JpjOMsVGozx5FuSb5v7cGKLJMS9JSPMlNQ=
+
+Name: base/res/mipmap-xhdpi-v4/ic_launcher_round.webp
+SHA-256-Digest: kbSQrvhldJARN/CiUicuHxrdmcGtcJ4Glu1okpuI0mE=
+
+Name: base/res/mipmap-xxhdpi-v4/ic_launcher.webp
+SHA-256-Digest: WK6H+gxbXRVi0n/WSNLAYVU/4g4+1XC95YgWLQHqeic=
+
+Name: base/res/mipmap-xxhdpi-v4/ic_launcher_round.webp
+SHA-256-Digest: MAn60Hn1dy8w7Ndn+YkkNn++D4HDAEjWctT9otXKfRI=
+
+Name: base/res/mipmap-xxxhdpi-v4/ic_launcher.webp
+SHA-256-Digest: +Y/vW8O/5bZWksQK0cuuK+xPr58bJJw5diZ0DbcbYtg=
+
+Name: base/res/mipmap-xxxhdpi-v4/ic_launcher_round.webp
+SHA-256-Digest: X68DN0XIyILEO7GzctTkpYkMrsY9mJKi51bJVBCLhdw=
+
+Name: base/res/raw/pokemon1.ogg
+SHA-256-Digest: YjO8IlRvFh1hJAx+74SUphxC+LpWgz+WMTBF0cu+xXU=
+
+Name: base/res/raw/pokemon10.ogg
+SHA-256-Digest: dZoN73t28O6Hm6eJ0XR7ykhZQtyNDNqJF0ZmREy/JWk=
+
+Name: base/res/raw/pokemon100.ogg
+SHA-256-Digest: fF37KhQEAu4y310toWaobxGVltXm8DrZ1iduDZXEJAM=
+
+Name: base/res/raw/pokemon101.ogg
+SHA-256-Digest: 83PCkBjyCsOddSiUse6sdZlLZgVDQP8WVK74TQHVr+U=
+
+Name: base/res/raw/pokemon102.ogg
+SHA-256-Digest: wTvNwnGUngJIRTOYn5zbo55R3fnvLQpHPx2MbBx6fq4=
+
+Name: base/res/raw/pokemon103.ogg
+SHA-256-Digest: w/62c7uYpJPZFR3A3rXPeAInnORkCiodhCIadG/cQps=
+
+Name: base/res/raw/pokemon104.ogg
+SHA-256-Digest: LgP1UjwQCTW4Lq8MvWhNhi7YDArweWsJaXnBVYCk+/o=
+
+Name: base/res/raw/pokemon105.ogg
+SHA-256-Digest: uo9ckJbgWV7pxoT7FxnVhK+ojtC8sgYUlAFNwdm+xaA=
+
+Name: base/res/raw/pokemon106.ogg
+SHA-256-Digest: dJW+FFiWNauBeBOPcGt6uc3IYtGHEUkI7yyJWAzXJpk=
+
+Name: base/res/raw/pokemon107.ogg
+SHA-256-Digest: Swp5LcA+e2g8IMggVJXElMvCGiv/RC2rJwp1UPS9x78=
+
+Name: base/res/raw/pokemon108.ogg
+SHA-256-Digest: pRMgkEJAB/tL/iT0V9p7NUsMFpkByW21AvL1njHedYA=
+
+Name: base/res/raw/pokemon109.ogg
+SHA-256-Digest: 7q1jlanDOvUpjbF+p053ZkWMrj4WC6RcF642hxPty5A=
+
+Name: base/res/raw/pokemon11.ogg
+SHA-256-Digest: h29AObF37F4opsi4xbjn7yDkrh+KYn5ojdj9SR0QBBE=
+
+Name: base/res/raw/pokemon110.ogg
+SHA-256-Digest: O29dH0i2dxrhaVjnMs6V4aNh7rv5rWdJzqHU5hyOj98=
+
+Name: base/res/raw/pokemon111.ogg
+SHA-256-Digest: fJ1e89OTfPmL72gRcfy4qoFBkE3NlMa3EPL3JZPBh4o=
+
+Name: base/res/raw/pokemon112.ogg
+SHA-256-Digest: jlMUomRXJIAM5uXhiMzz17zwRrlR997qZVEYMaV8TI8=
+
+Name: base/res/raw/pokemon113.ogg
+SHA-256-Digest: /UyGVZ4lAYqeepKEd4ghtxS2oWDqhUA9loe5y6Pu8ew=
+
+Name: base/res/raw/pokemon114.ogg
+SHA-256-Digest: IA8ZKofI4DzakCXF7lBotR5XW67ncSavQYVKrbk4YdY=
+
+Name: base/res/raw/pokemon115.ogg
+SHA-256-Digest: ua6ceJSNWi5CZGrI866VGuZvKXzbi2pl+hGpwvDgI8w=
+
+Name: base/res/raw/pokemon116.ogg
+SHA-256-Digest: gxDlFxRtJlrMfbi7eeqeAVGWDUqO9xxasrzaMef8U9w=
+
+Name: base/res/raw/pokemon117.ogg
+SHA-256-Digest: Pfj23wtaKxQMRb3qPGBmnBQUE4zt4PAj1eUZuBYVQuU=
+
+Name: base/res/raw/pokemon118.ogg
+SHA-256-Digest: aF1ejeRXf8nWVBSJiTv0R1JYjotHzPC97+IMgJwVyh8=
+
+Name: base/res/raw/pokemon119.ogg
+SHA-256-Digest: PAz7gEtHoxEYG52Yv78du8AsAiBk0+njPiIcclYUX2s=
+
+Name: base/res/raw/pokemon12.ogg
+SHA-256-Digest: p2HcMYXDBjuDXc/SGZmwvteOIJV/kia1kYBW+sDQFKU=
+
+Name: base/res/raw/pokemon120.ogg
+SHA-256-Digest: AOCjZGxHNZ2ci6YoJt6xvtQbXL/qHRDf8aDRqqDyhYo=
+
+Name: base/res/raw/pokemon121.ogg
+SHA-256-Digest: xn2VnHipvCq+107RSuVkGWeIvFkkBC6BHAMf+lnXJgQ=
+
+Name: base/res/raw/pokemon122.ogg
+SHA-256-Digest: FWS5NCY0HkZfSPCxr1n9fbQeSdQfCn28qAku+zSZdxk=
+
+Name: base/res/raw/pokemon123.ogg
+SHA-256-Digest: sgRL6GJg5+BaPPlbeOkx5iTINrZNxBwx3VracrcP/UE=
+
+Name: base/res/raw/pokemon124.ogg
+SHA-256-Digest: u7ND9vFeUyAaEAoln2i7T9K7EZZCbynGNb4Jt7l+we4=
+
+Name: base/res/raw/pokemon125.ogg
+SHA-256-Digest: if7AVdg2r4zeVzJdGaLlFsTDOCOO7BAulsezd7jP0n4=
+
+Name: base/res/raw/pokemon126.ogg
+SHA-256-Digest: DZLMzcPoB0egbyVoXAKkIAHEHLn3dfrksH1LT3dfPfU=
+
+Name: base/res/raw/pokemon127.ogg
+SHA-256-Digest: joXukrlz4GtyVhgx/i7uxtSwJGbLPGzaurMmpbfK5ds=
+
+Name: base/res/raw/pokemon128.ogg
+SHA-256-Digest: 4elwivemhw2EdIqr1SEhXc+n/5c7BjiEX1Ii4XvAiTM=
+
+Name: base/res/raw/pokemon129.ogg
+SHA-256-Digest: obAkMRK41f9UtQcbjDfM2UJJiwdYLTXCy+SbMyiBU3I=
+
+Name: base/res/raw/pokemon13.ogg
+SHA-256-Digest: PiUd9FSlOd9D7NvXVFHb7f6ztPsm4AZv/h9yTd8Yr1o=
+
+Name: base/res/raw/pokemon130.ogg
+SHA-256-Digest: YPxrSmAHgCkpPv2Q3PLbLjjdPwr9Cw4TQG6j9RZCtAQ=
+
+Name: base/res/raw/pokemon131.ogg
+SHA-256-Digest: Vw52ubY47lDRMArYO9TdnNlGYAIpLXbfRn+8y3WBHpk=
+
+Name: base/res/raw/pokemon132.ogg
+SHA-256-Digest: 5X1I7lajH+Z0TywVXzGyj70D6dKyeXozWfz4+SnTTEU=
+
+Name: base/res/raw/pokemon133.ogg
+SHA-256-Digest: ud0aBA7WvU6QJd9HYYDHzILDGH/yHyNbJnmLqEmSSJw=
+
+Name: base/res/raw/pokemon134.ogg
+SHA-256-Digest: iVT0rMhljYRiC365PZmiEiFRjW1TiOZn3pif813sTCg=
+
+Name: base/res/raw/pokemon135.ogg
+SHA-256-Digest: OWnmz8M3/qh51zQf5Kgajfrj4KpczScYKHPjaFdirmc=
+
+Name: base/res/raw/pokemon136.ogg
+SHA-256-Digest: PpOoufvz2QOTlQjDsyTeYHTtR+LxdZVpfejO991juEE=
+
+Name: base/res/raw/pokemon137.ogg
+SHA-256-Digest: 24u6XzhAcKFIH2aXoGBX90G69JtUe9SoRf4VA7PqMmk=
+
+Name: base/res/raw/pokemon138.ogg
+SHA-256-Digest: XYNvxHj7I6naf+O3oqECKxUTG16sWLpBPXICLhq/Cj0=
+
+Name: base/res/raw/pokemon139.ogg
+SHA-256-Digest: tr6OXi6OSE1St03lS0kajgaOWp4KLeQech1b+YdJ2Sk=
+
+Name: base/res/raw/pokemon14.ogg
+SHA-256-Digest: DqIpv5Xwumh6HU8Bd0Xw06SFx5UeK79HS9YQlnAqN2U=
+
+Name: base/res/raw/pokemon140.ogg
+SHA-256-Digest: aKMM4gOgBG6Uq7dJw1/3f191CXpv5xXm5bY/EwKG2hM=
+
+Name: base/res/raw/pokemon141.ogg
+SHA-256-Digest: utWp2FB2GUbhx6NoGD+SDrbzoxNlEJxPFNCLGga0q4Y=
+
+Name: base/res/raw/pokemon142.ogg
+SHA-256-Digest: qH7uMsypSDKfJ4BHFX1EbpYCuoHGUOoiXWU9MhO5KvM=
+
+Name: base/res/raw/pokemon143.ogg
+SHA-256-Digest: LuP5X9MQLnzYpuDkKRcKyvhnQDLv+cmtEZ9wESYM/H4=
+
+Name: base/res/raw/pokemon144.ogg
+SHA-256-Digest: N0YS37sKXH53IblphVP8FZCcCrK0m+nuszhedVjZcws=
+
+Name: base/res/raw/pokemon145.ogg
+SHA-256-Digest: FBcDl2NhE6t61TK/et/xiTRPv8/SltbwL5pkzJFTRP8=
+
+Name: base/res/raw/pokemon146.ogg
+SHA-256-Digest: anst9Vrk/M5ksdUPjwsdemK6lCTpvjazYRaBe4pCPak=
+
+Name: base/res/raw/pokemon147.ogg
+SHA-256-Digest: dcUd5rv2+ze7M2KSZYiotGMrRT51WnWfG9v/55MP2fk=
+
+Name: base/res/raw/pokemon148.ogg
+SHA-256-Digest: 00JRuPY8JrYQ8q3eUO7/iVBhytl0hiN5qafRmOxpqRw=
+
+Name: base/res/raw/pokemon149.ogg
+SHA-256-Digest: 7BjRUllrkuoezf7Yi2SglfXuWlJC36lHIHnvj7EdXpk=
+
+Name: base/res/raw/pokemon15.ogg
+SHA-256-Digest: jjRDS+Drosb7/VaijY9lr/K8/c6nuIleH2ZQvmbqwjg=
+
+Name: base/res/raw/pokemon150.ogg
+SHA-256-Digest: hLkN9q/zSEuj6rBqV6UQjIT2NrWejxooSl5BCsAfK74=
+
+Name: base/res/raw/pokemon151.ogg
+SHA-256-Digest: ZxNYSP51KcEN0JwUCgETtJkCUCJg4ZmXUeSugoeGSDU=
+
+Name: base/res/raw/pokemon152.ogg
+SHA-256-Digest: oMFW2JcSMRJhh6rKfFnZv+ehhoZl1022qlIeC9XFycI=
+
+Name: base/res/raw/pokemon153.ogg
+SHA-256-Digest: mJyeHIo893O07bk0snIuujCq5taU4Zg5orASgAfmOlw=
+
+Name: base/res/raw/pokemon154.ogg
+SHA-256-Digest: l3PVennBOf04GmgCj7VLWM8IpE+YiZyhKly+VPzRFBc=
+
+Name: base/res/raw/pokemon155.ogg
+SHA-256-Digest: mr6SH73MMQ47VBMTCrFo0AhzLHFfp3+T9hYFvVROYho=
+
+Name: base/res/raw/pokemon156.ogg
+SHA-256-Digest: FGpfJcTlFU1OrHMTdKRkHY8G3AIlJFz+HqOVMSJ/2cI=
+
+Name: base/res/raw/pokemon157.ogg
+SHA-256-Digest: X15qWspylFtm4olb6WLxmvyYzIfSZFUtR1ra9UrWmgg=
+
+Name: base/res/raw/pokemon158.ogg
+SHA-256-Digest: wLQetQAkMpjBMQ6LIwucPqTA4f3L+Udt1wlQ/9reln4=
+
+Name: base/res/raw/pokemon159.ogg
+SHA-256-Digest: VZ4vHDubpEOV7/FR5TSMqMndFgigZ7h0OxR4cfoHt4c=
+
+Name: base/res/raw/pokemon16.ogg
+SHA-256-Digest: hOWZyb38kxXlX3jPrzJirQlYvbZxI5yHei2eZH1lmEI=
+
+Name: base/res/raw/pokemon160.ogg
+SHA-256-Digest: HR1MLxo35T8KNYN3pt5aiWO226JOZDpI755PyDYdSMM=
+
+Name: base/res/raw/pokemon161.ogg
+SHA-256-Digest: uzH9mEC1Fe1T6WJdFoL+WpzSBIfX2ETf2Nhh2R+y4B8=
+
+Name: base/res/raw/pokemon162.ogg
+SHA-256-Digest: o2+HbR+xmmeo6dd3Do4cWOej862HPVSF0WK1Q6t3DTU=
+
+Name: base/res/raw/pokemon163.ogg
+SHA-256-Digest: xOhuXRFC9Df0tpnEmXivgnPvwAnG1/QVL0z5ZKBQdyw=
+
+Name: base/res/raw/pokemon164.ogg
+SHA-256-Digest: eVeoJgOP9IKEK4r0pJk2WLJX3r9guASMxPkYsEBmsYg=
+
+Name: base/res/raw/pokemon165.ogg
+SHA-256-Digest: 3w9H9GJbsN5ypeOB3mbtJ1qvepczzJGre/2DZwAJhco=
+
+Name: base/res/raw/pokemon166.ogg
+SHA-256-Digest: 2e3P4nhqVEmEtzmqxKCQ1AKaf9WZXWhbxV95Uh9+8d8=
+
+Name: base/res/raw/pokemon167.ogg
+SHA-256-Digest: s6eWyK0jyS7XHEMcCVdmwsmlwvJZPVfIWLeyvriT7Fg=
+
+Name: base/res/raw/pokemon168.ogg
+SHA-256-Digest: /ROXEvGlLLLQOptlllELsKYehw+dnLBic5zE91zW5TY=
+
+Name: base/res/raw/pokemon169.ogg
+SHA-256-Digest: Jso2NMAogRBbgwOEKNObkj+W7/JWOv9KsL31AeYe0fU=
+
+Name: base/res/raw/pokemon17.ogg
+SHA-256-Digest: BHS/hjS20FgzZ19SuvzhzRvRh796l7YAppcQV2Aj4I8=
+
+Name: base/res/raw/pokemon170.ogg
+SHA-256-Digest: PxFVdM+GcQOu9SyRmTwNskPqg11qd0/Eb0nanyMHCQk=
+
+Name: base/res/raw/pokemon171.ogg
+SHA-256-Digest: nINFljlyHnGt+BPkLHF6pXyRUOTfWa/RozLFJDwtxuo=
+
+Name: base/res/raw/pokemon172.ogg
+SHA-256-Digest: NwkCBxoGHBdXglLVM9gbDODBZsomDCEybVJQ/UgEeMc=
+
+Name: base/res/raw/pokemon173.ogg
+SHA-256-Digest: w6er1wOBrRyu4plp7RcrOHnZ+1Q4jMjIZygRbjgL+80=
+
+Name: base/res/raw/pokemon174.ogg
+SHA-256-Digest: K1xTn2I7fc9P3FseVDZwT5IdJDj7puAaFEMazmEHmpA=
+
+Name: base/res/raw/pokemon175.ogg
+SHA-256-Digest: 3IKBhkPnztUWaTjt6eiU+o9AYpA8oy5Qs4+kXAv1LiM=
+
+Name: base/res/raw/pokemon176.ogg
+SHA-256-Digest: RUywPcw0hJd9QjQPRGRzztcK9AISQkB81Us4lm/SZ6k=
+
+Name: base/res/raw/pokemon177.ogg
+SHA-256-Digest: LDvd7n9E0CRM8fTuSl07d3dp4p9/JAicHWbdtc+YYqk=
+
+Name: base/res/raw/pokemon178.ogg
+SHA-256-Digest: OBkU1bY9dQdaDderuyQWmGjPQhyAEfExdRvJtnzwKmc=
+
+Name: base/res/raw/pokemon179.ogg
+SHA-256-Digest: 9lHJvoGnR9F+eL7MXtB5biL/ioECYte24WOhpqd0YDU=
+
+Name: base/res/raw/pokemon18.ogg
+SHA-256-Digest: xbQmuPzBg9W9tEyj2wZmcLSsGmBhloCUPzI8cHRPvfs=
+
+Name: base/res/raw/pokemon180.ogg
+SHA-256-Digest: /zy2uMBHHNq/WFg/UwbuIWJZDzfWlCVh3uwHd0AHJN8=
+
+Name: base/res/raw/pokemon181.ogg
+SHA-256-Digest: +zFO1qgt4R/anWZWHQ9NcB/ezawzRzg3jlL3Zk3JsD8=
+
+Name: base/res/raw/pokemon182.ogg
+SHA-256-Digest: INYdtKwqSForrGS8LA9hlOuIbs3o9xDRKaVAA3nLAS8=
+
+Name: base/res/raw/pokemon183.ogg
+SHA-256-Digest: e9amnA9kByuRcUwzdLUNHBqhrZgOslMruI7bzjL/tuA=
+
+Name: base/res/raw/pokemon184.ogg
+SHA-256-Digest: TUTEYWgU3Tk0LH/3AXo7JnTaaaC9FRwAsRdY3Wewh8o=
+
+Name: base/res/raw/pokemon185.ogg
+SHA-256-Digest: M1nrWxtots+2KCBkJ67KeKgg3PE0AdyfNjB4J0eEyLM=
+
+Name: base/res/raw/pokemon186.ogg
+SHA-256-Digest: qjTZ4VbHCQzQJotHzpm0VXFOxCj8KUKoNC9YMV+qB9s=
+
+Name: base/res/raw/pokemon187.ogg
+SHA-256-Digest: ZymrL4OM+xiN8vqKaLygzR+U5PFgfh8D9uqQmba3ye4=
+
+Name: base/res/raw/pokemon188.ogg
+SHA-256-Digest: p9zlAk+jhPQmmCClfkwK2nfx89OLRBLYA0+m07kmQnk=
+
+Name: base/res/raw/pokemon189.ogg
+SHA-256-Digest: F9e9hCL0StYxzDv1/DIIEyXdaNe1LZ2IwTotg32pcAM=
+
+Name: base/res/raw/pokemon19.ogg
+SHA-256-Digest: JSopK7c4pV7uvDlVoRGTL66PQA0Zn6bTAQVBipr5YbQ=
+
+Name: base/res/raw/pokemon190.ogg
+SHA-256-Digest: Pt+SufgFPgU1+eXo4TDcshVOZQQ4pX58rE/DGLwO11I=
+
+Name: base/res/raw/pokemon191.ogg
+SHA-256-Digest: KLR5RKec8Ozkdx+y7DJan0lOiP1Mu3Ed576CRCK0wVQ=
+
+Name: base/res/raw/pokemon192.ogg
+SHA-256-Digest: Ebh8f8MB/Cti9Hqy0gsTRsJNF2fvxzaLUPEqy0IHP3Y=
+
+Name: base/res/raw/pokemon193.ogg
+SHA-256-Digest: Kjbh8FjwuLshpnEz+2xacdTIX0xiSIIEb3UByU4Aex4=
+
+Name: base/res/raw/pokemon194.ogg
+SHA-256-Digest: dIwXLlrLBSBK8lfIbNHfnO146E8TPsGZ3Hzjm9jrdqs=
+
+Name: base/res/raw/pokemon195.ogg
+SHA-256-Digest: o2hzDMh+8AlbBrxjRtgQ6DMMDyV8IjdovGcQv3S4uHc=
+
+Name: base/res/raw/pokemon196.ogg
+SHA-256-Digest: l5jUfvvYDq3GYBsxgwQOx/thGqnwtpCwcWYz+9TXiEg=
+
+Name: base/res/raw/pokemon197.ogg
+SHA-256-Digest: J/GQOyCnHTpLngPAPdnzXO41R4c+kp9o7hJBUpJbFVQ=
+
+Name: base/res/raw/pokemon198.ogg
+SHA-256-Digest: oYT6+wuwnNsV5MEurRGkVWMtE5FeZ3pOWEDt/2rcty4=
+
+Name: base/res/raw/pokemon199.ogg
+SHA-256-Digest: cCI4eMJvR/S9xZxjR6He/Ln8SFJUVZobCHGm7bdKWVA=
+
+Name: base/res/raw/pokemon2.ogg
+SHA-256-Digest: fNiMiwxLkYbP6ylpayX9REPYFhnR2FyL6/SN/Bl0DaI=
+
+Name: base/res/raw/pokemon20.ogg
+SHA-256-Digest: mghqMLPwQEBQ0HeLJkJkY8P10TJPoaXl0lSw2iOknu4=
+
+Name: base/res/raw/pokemon200.ogg
+SHA-256-Digest: NsLcQoLSaFRBziR6rVPCrviaebaa19cbVfe4ZbKaRdU=
+
+Name: base/res/raw/pokemon201.ogg
+SHA-256-Digest: VZ/j9YOVnZH+nQnr1RagC/tFvn2scmAVG0nESuu6Ys0=
+
+Name: base/res/raw/pokemon202.ogg
+SHA-256-Digest: 0t2YViVsZDrbx63hqKfIuD0oJCwRhy1yCzHKsYsDW5Q=
+
+Name: base/res/raw/pokemon203.ogg
+SHA-256-Digest: LKoJ4mEnk4JWdh3u41ba23LGnbmmo59ElGTl9Q2fKA4=
+
+Name: base/res/raw/pokemon204.ogg
+SHA-256-Digest: ftkZVo2dmKghEF2QilG/mUlj0E/gxhoXewMOGiJvkys=
+
+Name: base/res/raw/pokemon205.ogg
+SHA-256-Digest: jY/heVvUxC7ohwIyjHbVn0g922dUgcExSWgrTDoVdok=
+
+Name: base/res/raw/pokemon206.ogg
+SHA-256-Digest: 5nwlc/Bs9a4bBSei7lZZBRscysAc5iLi/CXnlOE0IUc=
+
+Name: base/res/raw/pokemon207.ogg
+SHA-256-Digest: 3GYDN9k6kEEi44pYrokW4zwcN4kRjbRUmQrYhGNilk0=
+
+Name: base/res/raw/pokemon208.ogg
+SHA-256-Digest: Ety1UWIVbMC9FQ3cOIzsWHYR2dw2WosjrLeW+lWf0Bw=
+
+Name: base/res/raw/pokemon209.ogg
+SHA-256-Digest: wPbd++agcS9QnIOIJ+9vh7qizXrhiSTSgxp1WsmJk7Q=
+
+Name: base/res/raw/pokemon21.ogg
+SHA-256-Digest: ZGH31XdDD7BJr+yNpkfMWN35xHK1giGP7MOaLT0hnAQ=
+
+Name: base/res/raw/pokemon210.ogg
+SHA-256-Digest: exB80Ix8N+mz8p9mgfk/cNjj16dxdKvO5xeS7QZReBg=
+
+Name: base/res/raw/pokemon211.ogg
+SHA-256-Digest: Bx2KBUR41xKpMH1hP/hyHst+yBmdVDMPMHYLIO2tK98=
+
+Name: base/res/raw/pokemon212.ogg
+SHA-256-Digest: cu4XymnVlPJHsRANj7iUv1+AKV8gm7ojXGUkiBL6cX4=
+
+Name: base/res/raw/pokemon213.ogg
+SHA-256-Digest: SkraS2t3JVOPOvevMlpPdxz6//3T3s5/oVN2FOjpbS0=
+
+Name: base/res/raw/pokemon214.ogg
+SHA-256-Digest: Q35aYkbOxz208CH5coBizs0wsweZu6qBO+qLqiC1DpE=
+
+Name: base/res/raw/pokemon215.ogg
+SHA-256-Digest: cVt7YNLfU7WVjzdkNXb34PHoIEnGvM8zRizt1Yia12Y=
+
+Name: base/res/raw/pokemon216.ogg
+SHA-256-Digest: iFf+3R8fywPCRWRDjff+jUpmr5fscDNGXkaaQqUxZpk=
+
+Name: base/res/raw/pokemon217.ogg
+SHA-256-Digest: mtPPtH1xy1NK6T2rnexsGpyOas6op0ylFWXL4jWgG1g=
+
+Name: base/res/raw/pokemon218.ogg
+SHA-256-Digest: DkZuUvvmQ11Pgj+CQ1V/t2iQ3Q3S8dUEAg7lMPi0Zog=
+
+Name: base/res/raw/pokemon219.ogg
+SHA-256-Digest: B1dTyvKCrgVQDihNEKCxGsza/tpGamJwV4Amn7+qMw0=
+
+Name: base/res/raw/pokemon22.ogg
+SHA-256-Digest: 1imBrR/J1ZM01GwMz3xpd68RiVCjE+0Cai0mmelwRmU=
+
+Name: base/res/raw/pokemon220.ogg
+SHA-256-Digest: lNnb8Z3zYcFzg2Ngl2A2qtRFoAQwc9SVhQrB0vdZ440=
+
+Name: base/res/raw/pokemon221.ogg
+SHA-256-Digest: vXSeLPe9KvAzMXvRkvKk1PgZD12TJfRpGPpvMnsxiTQ=
+
+Name: base/res/raw/pokemon222.ogg
+SHA-256-Digest: II2GSvfdt/8DNJ4UZcRUjqMggjhdXfMkM5d0dhCPkak=
+
+Name: base/res/raw/pokemon223.ogg
+SHA-256-Digest: 0J6kyZuG24MQ/DD28DoTx30ny2BXD6QFSz3nKsBFxYs=
+
+Name: base/res/raw/pokemon224.ogg
+SHA-256-Digest: KUAOw7IjUmaALqwOft8l6vau4vku0a9aM71E6gg3CPA=
+
+Name: base/res/raw/pokemon225.ogg
+SHA-256-Digest: Yrtuy13ESKe97FvOjjQNVjEuwi/UmmLe+FjynuPKU6s=
+
+Name: base/res/raw/pokemon226.ogg
+SHA-256-Digest: zV9bsn/JaNjIitOLr1eo2fWgMIKkNTII9f36ThyE3po=
+
+Name: base/res/raw/pokemon227.ogg
+SHA-256-Digest: wISJIL2n8K137xMF61FgxPb7ESVhH7veTIbHsNIcGFs=
+
+Name: base/res/raw/pokemon228.ogg
+SHA-256-Digest: JIdhYiS5lCdkkyMp6nsAviTTRzKAq79qgK4X8iGLafI=
+
+Name: base/res/raw/pokemon229.ogg
+SHA-256-Digest: S0AA9Tiw1KkoCu8LupqsLteAWRrhd0dgIN+EGcQs4wA=
+
+Name: base/res/raw/pokemon23.ogg
+SHA-256-Digest: Iz166rZfMlchdV59tXsImzosGwlVNreD3E5X7OsBjtM=
+
+Name: base/res/raw/pokemon231.ogg
+SHA-256-Digest: NKghbMLP7vTTYHrhhLvqLU6B2eqkeSzVIhzB+K16+s4=
+
+Name: base/res/raw/pokemon232.ogg
+SHA-256-Digest: rz3GmuO22kNuZ0hvKUUKxR2chioxMVfvXJMVPxqIxsA=
+
+Name: base/res/raw/pokemon233.ogg
+SHA-256-Digest: 6jJNYKLlfcs1JJCvousqlDgijrPYi511exyvLABIX1c=
+
+Name: base/res/raw/pokemon234.ogg
+SHA-256-Digest: cyC7SoUAdNz64YGYM+HGM0yzFJ5ABaOfLBWWBuDw/r8=
+
+Name: base/res/raw/pokemon235.ogg
+SHA-256-Digest: AZUj2R4/OJ/hN1UDip9mW2tfDu7gde4JRjV6xUkswGg=
+
+Name: base/res/raw/pokemon236.ogg
+SHA-256-Digest: h0XSLT0z3hRovegopRHzy1H9WQgfhzjhpJ/v5hjS87c=
+
+Name: base/res/raw/pokemon237.ogg
+SHA-256-Digest: jJr4Uy8ose5iO+9c7r8mb/IwcSo1wEIQRCrcPt5enHg=
+
+Name: base/res/raw/pokemon238.ogg
+SHA-256-Digest: +u7FSOY+7qs5f0yEIyseJZnfQVhVqlA1AaBuMlgnLVI=
+
+Name: base/res/raw/pokemon239.ogg
+SHA-256-Digest: lc5yEZRYNz2Pv9Ivn+Bp/kWHPEdEMa8/sxsYmoxROI4=
+
+Name: base/res/raw/pokemon24.ogg
+SHA-256-Digest: J2O6ONaOQeXTwaeuCAV0Ne5+hn5r+PMCPJ/fcIGzcLw=
+
+Name: base/res/raw/pokemon240.ogg
+SHA-256-Digest: J1dEMrUCLUp8wxvI9+dkBc0NiLxW7mzHUVVwbyHjA3U=
+
+Name: base/res/raw/pokemon241.ogg
+SHA-256-Digest: ssEh/QWrhzTnSXvZgoSHrU82gtnAu1MYickL8j3h5MU=
+
+Name: base/res/raw/pokemon242.ogg
+SHA-256-Digest: ZRXu9iZmUtc/a5kMDs1wjdn1ARtt9chQ0CaaZ8YbnUQ=
+
+Name: base/res/raw/pokemon243.ogg
+SHA-256-Digest: FbiBi/r+AJs/eG6NPXR20MNOYf+MAgi1GPuptjpbAIQ=
+
+Name: base/res/raw/pokemon244.ogg
+SHA-256-Digest: 1kgz1jNHMe/0OdILSR3y6M5okiMDeCuSbia2WOE+j6s=
+
+Name: base/res/raw/pokemon245.ogg
+SHA-256-Digest: t1+zElTbMBGHuqtn39yOSz76t7eJ7Slp/1Aza6WQ6Ww=
+
+Name: base/res/raw/pokemon246.ogg
+SHA-256-Digest: DOOGShCw4rTzedHV6M+hy/+kVqGpz3pzOziDwXquW10=
+
+Name: base/res/raw/pokemon247.ogg
+SHA-256-Digest: uZRLgYxgR03dFLjnsppEYFbYYzd+Ld4N9bz3p7TtHk8=
+
+Name: base/res/raw/pokemon248.ogg
+SHA-256-Digest: eo2Dtmh85WEjfulqsX6pUiZbaD+5RLYG6ZBQUN+03co=
+
+Name: base/res/raw/pokemon249.ogg
+SHA-256-Digest: YXkybUBHhBRIlnMp1W+2GDKaa10XESrmz9tULyryv1I=
+
+Name: base/res/raw/pokemon25.ogg
+SHA-256-Digest: sKx3RcWtxf/Bybr7p7+44ZQWHQSHXe3Dp44uFGaiNsI=
+
+Name: base/res/raw/pokemon250.ogg
+SHA-256-Digest: T/eHLterkXg1mosUL/Orh8X/3Lg1kTtl45RVG6GWHHU=
+
+Name: base/res/raw/pokemon251.ogg
+SHA-256-Digest: c5Q76YN4VcX3I3WFJcr6HCDtHQLyJiBaE2mqSx4ARHY=
+
+Name: base/res/raw/pokemon252.ogg
+SHA-256-Digest: krKFzGDGRcp9BNUzlmVfKoNuPGFujiSGC97qTtYQ4YM=
+
+Name: base/res/raw/pokemon253.ogg
+SHA-256-Digest: 8DH9YoL31HnOJjWNNl3JEJ/GUgTuVdaXgdTF/xrUe5k=
+
+Name: base/res/raw/pokemon254.ogg
+SHA-256-Digest: 0op+g1ZqFMd5DbBpe39MSA4FxoiSuZ8qzdPycluRKdM=
+
+Name: base/res/raw/pokemon255.ogg
+SHA-256-Digest: x3gFPq/orQZvMOXbxYxIqGfLKQN6KiDhbVhKHo6ReEI=
+
+Name: base/res/raw/pokemon256.ogg
+SHA-256-Digest: zI3/RjM3QEkoPcTi6ovw382x8E7jLCR0zbUoGWo2w8c=
+
+Name: base/res/raw/pokemon257.ogg
+SHA-256-Digest: hosTuvav50BhWlo5DuINy8aotyhtNTiPRmckS4CRUC8=
+
+Name: base/res/raw/pokemon258.ogg
+SHA-256-Digest: H8qBShv1x2MVzaV14ILbBLf2oJMYLStL0kHGy3VjWLA=
+
+Name: base/res/raw/pokemon259.ogg
+SHA-256-Digest: CLLsstERhcKmqBGxg7qAROmC7wpk1EsMHkBWONzTomo=
+
+Name: base/res/raw/pokemon26.ogg
+SHA-256-Digest: U9L8E0ceAFvvq3HdWpL73ZbuZOPIFS1EjmCU27k3Xgg=
+
+Name: base/res/raw/pokemon260.ogg
+SHA-256-Digest: B9xucqjLuXeGAxbFqEwdvl/WdGpiTptIw7euLwi4/Xc=
+
+Name: base/res/raw/pokemon261.ogg
+SHA-256-Digest: WG8wRNABBtJq0wBkjHdh2YM91uMxGZQJ37Ms56Wp5J8=
+
+Name: base/res/raw/pokemon262.ogg
+SHA-256-Digest: gpjNCA7x9/fX8BxIuSwyVWbmqPqvUC6LqX7K4VwSmoY=
+
+Name: base/res/raw/pokemon263.ogg
+SHA-256-Digest: zZkIFHGIJ2aOA1dPFRHl8UtSCXEm/WLjshCr558aF6I=
+
+Name: base/res/raw/pokemon264.ogg
+SHA-256-Digest: xub/t4vZPZo2TtiPWko0FA+6U6ALMdj8mpV+IxzSYds=
+
+Name: base/res/raw/pokemon265.ogg
+SHA-256-Digest: 4cGGiW9u/QJ4MqXlGwVYPXQxQBhynDuw2cyrllCU7y4=
+
+Name: base/res/raw/pokemon266.ogg
+SHA-256-Digest: FDforUgcEmJMfgFU8Lh935zhmUCDqAWa7A0cVXAPIPY=
+
+Name: base/res/raw/pokemon267.ogg
+SHA-256-Digest: /fkbVA6kQbd91TImQ3cacp8UvHAB0pe3S7i9sHv7WdE=
+
+Name: base/res/raw/pokemon268.ogg
+SHA-256-Digest: rfbw1T1WsOVtiUXLgXwy4XKBLXTKNdvvTww6Fm9u9Qg=
+
+Name: base/res/raw/pokemon269.ogg
+SHA-256-Digest: 6ixHvyTRz9Tkco8t+tDLU5i6vk2VSQAPiFqL2NdufcQ=
+
+Name: base/res/raw/pokemon27.ogg
+SHA-256-Digest: yVGk45o110I/NcHQsyxhg8YAv2vbPFqksaJRP7jK+0c=
+
+Name: base/res/raw/pokemon270.ogg
+SHA-256-Digest: DM+GVYmo7IESMrwiAiO7IOOyfeVguU9FTTdaxePlw8s=
+
+Name: base/res/raw/pokemon271.ogg
+SHA-256-Digest: S5Bc6UvHS4oOTCWFKrpzMimOMpKvxL21i9GK43nuoVc=
+
+Name: base/res/raw/pokemon272.ogg
+SHA-256-Digest: TX2dVf+xvXzkoCpXxHjw/7EniAbQZKCgk5mFkrZhuQc=
+
+Name: base/res/raw/pokemon273.ogg
+SHA-256-Digest: wEvLhiayyw3G1pKfIcMp+xlNAnRe7bNdb5vRHwVOfjU=
+
+Name: base/res/raw/pokemon274.ogg
+SHA-256-Digest: K5DhHH3hTbR/qgM32qhgyws7FipmQaML6oabegDaEDY=
+
+Name: base/res/raw/pokemon275.ogg
+SHA-256-Digest: 7sjvOUCo4GLrWflJZku2EqyjdqIwf6CixhsTWA8YWpY=
+
+Name: base/res/raw/pokemon276.ogg
+SHA-256-Digest: rkkR2dvceSG238oA0yHAlkiuWLCS+c5YOJQjaYGxC4Q=
+
+Name: base/res/raw/pokemon277.ogg
+SHA-256-Digest: q8NzyXer7Dba/WLrI8fd1Ssyc0mtEMaLl+9tjmyQEzA=
+
+Name: base/res/raw/pokemon278.ogg
+SHA-256-Digest: NBP7QKKhUwyfxraLh/M6p7sahjI7GLS/jYMXIz7JOLo=
+
+Name: base/res/raw/pokemon279.ogg
+SHA-256-Digest: SB++GLV2592BvicidFcqhzGm4t3SMxHka9tUqKtZNr0=
+
+Name: base/res/raw/pokemon28.ogg
+SHA-256-Digest: Zf7wHB59nU+UOE9DiFuCXWRWsHNIcff+lMyURgKkwl0=
+
+Name: base/res/raw/pokemon280.ogg
+SHA-256-Digest: 2/xCTqHEEWyX3jiQ5dY/P+aoV8fJC2MI0xfB81Vo0oU=
+
+Name: base/res/raw/pokemon281.ogg
+SHA-256-Digest: giZgDqxyd9InZyw6Hqp/NYzEuP6vyGthXfZYIsXorfg=
+
+Name: base/res/raw/pokemon282.ogg
+SHA-256-Digest: k70taZcKutjCvgJEstrVdQZtF7xBUpUd+Ya2aDXy+RQ=
+
+Name: base/res/raw/pokemon283.ogg
+SHA-256-Digest: ruBRkeCFZAcf4nw75XpkCvSG2rSx6UvQa3oIlVx+u4k=
+
+Name: base/res/raw/pokemon284.ogg
+SHA-256-Digest: 8vRePbLaNtNQsk1+0PIEZKov4bhvZa3nrQGzpaFibz8=
+
+Name: base/res/raw/pokemon285.ogg
+SHA-256-Digest: YEP4/vwwor0l90ze8wu4BsJDeLZsQ4CXDwaEGK03odw=
+
+Name: base/res/raw/pokemon286.ogg
+SHA-256-Digest: ISzBJeS+HNwJaxgWhJ8QziIw37i39ET1EDZUh+RLzow=
+
+Name: base/res/raw/pokemon287.ogg
+SHA-256-Digest: dwkTMa7x9/MDyC1vSkaojawRtk/TeZhXyDzpuLLIyfY=
+
+Name: base/res/raw/pokemon288.ogg
+SHA-256-Digest: oBWFDgR7Mf6xzn5NIY9/mEO12q8KeHTAMgtEJvUdfxY=
+
+Name: base/res/raw/pokemon289.ogg
+SHA-256-Digest: wsaIVbQ5ponF/84LoS+fvfo64vLygwO/SBoAyU3kmK8=
+
+Name: base/res/raw/pokemon29.ogg
+SHA-256-Digest: n3HtyYdPL0ZkFg39Bgw2rLdwSJ56ym88pWdmEyX4Wes=
+
+Name: base/res/raw/pokemon290.ogg
+SHA-256-Digest: rrsW7GF21O+GmsRrhdje5/vtsmeUUIEE28nFBYczBvE=
+
+Name: base/res/raw/pokemon291.ogg
+SHA-256-Digest: rCcJBeIjr3f4Hp4jG0vtV3XpZnJ4lWKXuM+foGw0C38=
+
+Name: base/res/raw/pokemon292.ogg
+SHA-256-Digest: 6Wom9jUOh3YzVOEEJe6Wg3M6SXP5dN0e3T34UjGWhww=
+
+Name: base/res/raw/pokemon293.ogg
+SHA-256-Digest: xvlAwxXwDtEW1b/V8Sq2avrO6C84UUylj1GmlUBU/O4=
+
+Name: base/res/raw/pokemon294.ogg
+SHA-256-Digest: tdmCEWvYkFbV6GlDZ+JdlkNUDAwslFwISQ+8m3NWh8U=
+
+Name: base/res/raw/pokemon295.ogg
+SHA-256-Digest: WCR/37dcxn/3ky+bIw10IbR0G1U8QRGpPXOWyv/tiSE=
+
+Name: base/res/raw/pokemon296.ogg
+SHA-256-Digest: AGcejldkdGW4DGagRArdN0qL+588LS64yX8Q1Iv9TJo=
+
+Name: base/res/raw/pokemon297.ogg
+SHA-256-Digest: tZQqsizK+WJhgiOl3oupS1pW9Aw1StlylilAPFhvTVw=
+
+Name: base/res/raw/pokemon298.ogg
+SHA-256-Digest: wAjh29A6WZmy9VF9WBr9S9+Qkt5q1WMeSVunEyc4WWw=
+
+Name: base/res/raw/pokemon299.ogg
+SHA-256-Digest: T0AvZpda17FjQtg3QWW46hhC4YFKn1i0B1ENaMh3hPY=
+
+Name: base/res/raw/pokemon3.ogg
+SHA-256-Digest: oav2FvjxORwXTU0skuzG4kHsO73IuQIJQmeNbuxn6PQ=
+
+Name: base/res/raw/pokemon30.ogg
+SHA-256-Digest: lA2zZTNuJOwKkIyCrypeIQTsBd4Azg/gxadlVDnF7Bk=
+
+Name: base/res/raw/pokemon300.ogg
+SHA-256-Digest: jOSEYSFqxRuXQj4amIGRI7OfLB8UJalad1MPyFte80o=
+
+Name: base/res/raw/pokemon301.ogg
+SHA-256-Digest: EOoZv/KuH0F3vCVCUOTe5W+8IK3Xgo050Sjzdn95RDk=
+
+Name: base/res/raw/pokemon302.ogg
+SHA-256-Digest: XoU8mTElYI9CBsack4esetKAYVCbXfgJ06dQp43VDuc=
+
+Name: base/res/raw/pokemon303.ogg
+SHA-256-Digest: SE7WCkSAzEulxo+yXc4llUGTItoDmkZy4ky+UqxYQ4k=
+
+Name: base/res/raw/pokemon304.ogg
+SHA-256-Digest: e6A8oHK74N3n2MVHlVi9fS7QTxGJGcUolEkhtB+aJCU=
+
+Name: base/res/raw/pokemon305.ogg
+SHA-256-Digest: ILBdK2X+1yheOBo0XW9v2ERqFzkRLIRuk0wb6oMiwBU=
+
+Name: base/res/raw/pokemon306.ogg
+SHA-256-Digest: raZRhQWh7XeCkpX0jpgbf+nvaJAYC9x2/tws51xaodc=
+
+Name: base/res/raw/pokemon307.ogg
+SHA-256-Digest: S0+xPtqJI729yjWhHtPXb7gsEG4ZdvRfbRkLU2ajEl0=
+
+Name: base/res/raw/pokemon308.ogg
+SHA-256-Digest: c1ZYMQcthE/dORPcfIZDDmPEZVXxCIazjVRsJ0hKgU0=
+
+Name: base/res/raw/pokemon309.ogg
+SHA-256-Digest: 312oXMmqk1YuHDzU+D6sAOdIaUoj4DtTR48Fr/tKrG4=
+
+Name: base/res/raw/pokemon31.ogg
+SHA-256-Digest: 4S41LM+04vITo5QESBQuANE8MV+Ox5+oDar5MRXynaA=
+
+Name: base/res/raw/pokemon310.ogg
+SHA-256-Digest: GUqzFLqxeFWU2j2kI2y0jrPWQ6CMCYHUBCDXA1bsuPA=
+
+Name: base/res/raw/pokemon311.ogg
+SHA-256-Digest: k9N7SP71DJ7gZpnhULG4xApbNA1YrpzN3OZowaD2Kqg=
+
+Name: base/res/raw/pokemon312.ogg
+SHA-256-Digest: JO/XIl0t1SkvpCYF5Q2NPvDryXzmE3pUL0y8Vgc+S1A=
+
+Name: base/res/raw/pokemon313.ogg
+SHA-256-Digest: hr8IGYbm9ynq3msZK9wLEfqoUv8mE+DSvhA8aA84dqQ=
+
+Name: base/res/raw/pokemon314.ogg
+SHA-256-Digest: aoFK0P37fTx1qliCgUwCaZrpnIqp+oLxKTqNL1nx+zw=
+
+Name: base/res/raw/pokemon315.ogg
+SHA-256-Digest: gea6EhIj3D0GRmm3zrPELfiN1uGqGGZbjuU9zabuETY=
+
+Name: base/res/raw/pokemon316.ogg
+SHA-256-Digest: FJO4FHjN1toYguuIWqTgZZwzWzXeBIQWLXHOqo3u2/8=
+
+Name: base/res/raw/pokemon317.ogg
+SHA-256-Digest: UQ+vZbQ1uoamnJQYF/YBSBNN5IIe5GclR6eBI5Qma38=
+
+Name: base/res/raw/pokemon318.ogg
+SHA-256-Digest: 7GfJPVvxNRLcDmt3iXIZjl7DjW5vT23l0q7aE94/QZI=
+
+Name: base/res/raw/pokemon319.ogg
+SHA-256-Digest: /G771+D1mozLPqwKtlc9QUT5xSWwgs+GyTyOUn0BV5w=
+
+Name: base/res/raw/pokemon32.ogg
+SHA-256-Digest: RACyt7ZICryWcEtW4ovPEKD5GEqfP7DKQUv9xfnMfKY=
+
+Name: base/res/raw/pokemon320.ogg
+SHA-256-Digest: iFraXlWWrt0Gcoohu+rwJjZjugTiM093vd1Y4wB6Dsk=
+
+Name: base/res/raw/pokemon321.ogg
+SHA-256-Digest: ozyKk7Q+4Vq5GrgI4kl6Zl5euvANRK7UErpVIytBW90=
+
+Name: base/res/raw/pokemon322.ogg
+SHA-256-Digest: OVugkPT6Ixi2bl5xg6broIUyTrgI2SenufuZF4UHldA=
+
+Name: base/res/raw/pokemon323.ogg
+SHA-256-Digest: Jv35W2af9XcpDEQrlBteYESS5KaavJKHlg9LX8PanSM=
+
+Name: base/res/raw/pokemon324.ogg
+SHA-256-Digest: tYt9lwGT77vesjPGgp5td8dV77GDHD60e2BTt7gYffI=
+
+Name: base/res/raw/pokemon325.ogg
+SHA-256-Digest: 4jPZkfPpY8ln+WRrExwLd8DwiBeXvveQq7sf/SXOZ7w=
+
+Name: base/res/raw/pokemon326.ogg
+SHA-256-Digest: 6WWFDFYSlIqiVnJ0r5FGSSUESmbARh72olpPD6cXAVo=
+
+Name: base/res/raw/pokemon327.ogg
+SHA-256-Digest: NpDopFnLxqE6j2dvFoUY3O1W3ubanD1mSPxOMA2Va2Q=
+
+Name: base/res/raw/pokemon328.ogg
+SHA-256-Digest: tRb6q1cm8QH3QN6RvQF/bsaePP/g+ZFpWVPV4kzTzbk=
+
+Name: base/res/raw/pokemon329.ogg
+SHA-256-Digest: i1GgVfxG0wos2b+ot8pf6YiC2fKyZxeZOPiE8GU6OS8=
+
+Name: base/res/raw/pokemon33.ogg
+SHA-256-Digest: IwFao9znTHRSu+27TFboK/OBeGY6krAEYgWbFdOajB8=
+
+Name: base/res/raw/pokemon330.ogg
+SHA-256-Digest: QhikIuLamUVFVpDQgQlxSxekEYl1PaTwNgJTpcUyqao=
+
+Name: base/res/raw/pokemon331.ogg
+SHA-256-Digest: eQIJO9L1vSGyYdFI/KKEMUrb435cyrUJWzQny0We4wQ=
+
+Name: base/res/raw/pokemon332.ogg
+SHA-256-Digest: DRuMu0ITK8RBkwduopyWWpiRIxopRzfUaYmeaCjFMwo=
+
+Name: base/res/raw/pokemon333.ogg
+SHA-256-Digest: YO8rzakhFLR2OUxSOxVb+y6f8m6GD4OtVl3265hqVKw=
+
+Name: base/res/raw/pokemon334.ogg
+SHA-256-Digest: hAofoXCfsHUnA6letJYrhiDsWGoFo3WbQnGU6X1SbV8=
+
+Name: base/res/raw/pokemon335.ogg
+SHA-256-Digest: oTEadxValp7FE5UCqIFRvA38sGC08GeECnRom3QJaJk=
+
+Name: base/res/raw/pokemon336.ogg
+SHA-256-Digest: gFkDTpfrDnCtGgCXUVX07+BRlgl8ufvQyI0xPwy5EEQ=
+
+Name: base/res/raw/pokemon337.ogg
+SHA-256-Digest: ESusQCCw/kwOwEgLjjodJt1kZPynQA5gY6qyFhMZ4WA=
+
+Name: base/res/raw/pokemon338.ogg
+SHA-256-Digest: x7DRojFOoGTbYLxu1d1cd7CG0z5banYzzJgbz+bwkfs=
+
+Name: base/res/raw/pokemon339.ogg
+SHA-256-Digest: NpqNUOiHKoaIBekPNP8N/M5pT8snKXziU/u/h7Q8kW0=
+
+Name: base/res/raw/pokemon34.ogg
+SHA-256-Digest: TBpzgVLWZxox7Mq9bdIJJKK+jRbMENbTpjzWywzUrtg=
+
+Name: base/res/raw/pokemon340.ogg
+SHA-256-Digest: owObPoHfg3l4WyFUfHI27Rg8u87Ip2UA4jE8dUkthks=
+
+Name: base/res/raw/pokemon341.ogg
+SHA-256-Digest: oJ+7/UnvHsm450+Z+0Z3ZzrS5iV0q2PYkOoUNO+BMvg=
+
+Name: base/res/raw/pokemon342.ogg
+SHA-256-Digest: D3kF3+tcu0zwDQNJnSKEve9dnEke/oo2qJpeGFg692c=
+
+Name: base/res/raw/pokemon343.ogg
+SHA-256-Digest: 9fTnfD02N3PM49OSXk0VHnxqQWj0G4JGate15MF72iI=
+
+Name: base/res/raw/pokemon344.ogg
+SHA-256-Digest: grjsQa9z2D8WPP+HJYhovs+RyLc5RDdBiZyQE0Vdl2c=
+
+Name: base/res/raw/pokemon345.ogg
+SHA-256-Digest: /YLGpqwLAPeTwIeLay2x+hPMYycIU9roVmjBFA5F/SA=
+
+Name: base/res/raw/pokemon346.ogg
+SHA-256-Digest: M3h2nMw3iA/9vBLEm7oD8pHxNCR6KQQ5muF/F7KPTr4=
+
+Name: base/res/raw/pokemon347.ogg
+SHA-256-Digest: clAOCY1iUW7KsL7MvBdqlBoq3lz8gqbHf5ftoY72qo4=
+
+Name: base/res/raw/pokemon348.ogg
+SHA-256-Digest: 5LLfvFQxTwkVQ8LIWeGjhsSKQVV8iY3Z9omzP0ZStS0=
+
+Name: base/res/raw/pokemon349.ogg
+SHA-256-Digest: +r3++Y1PWgNOtYdSk6N3xExxm+p+0p13xSRia/WOdko=
+
+Name: base/res/raw/pokemon35.ogg
+SHA-256-Digest: XHDemtUFh21vfOTG/X13aC9j/urURzR2FV2YAWQdrag=
+
+Name: base/res/raw/pokemon350.ogg
+SHA-256-Digest: 8R+aYvAnmiu3AUhL/eQie3A11rzIKdJfnqksT+4mtPU=
+
+Name: base/res/raw/pokemon351.ogg
+SHA-256-Digest: zR1uBr3aZ/zZ4KsIeRFdcNQs+lUGYtYzOOmZCvtr8Q0=
+
+Name: base/res/raw/pokemon352.ogg
+SHA-256-Digest: 3EDu0l2BnaO4/TQDJfvp5PRS2pUfOpFVr+6v/9Vo9XU=
+
+Name: base/res/raw/pokemon353.ogg
+SHA-256-Digest: v7DY3tZ8RExV0leGRFnTWvXaZPboRLcyHwYyjYcikLY=
+
+Name: base/res/raw/pokemon354.ogg
+SHA-256-Digest: iS6dEGPurbYDxvlqtNQEEEmdwcRMYYSnmttAMhELFdQ=
+
+Name: base/res/raw/pokemon355.ogg
+SHA-256-Digest: UezSbkcw24fCqyemSsFfiYVuquete8PoB2l1g/cePpg=
+
+Name: base/res/raw/pokemon356.ogg
+SHA-256-Digest: wFlE8hMpVO8PlmxbwQBAQJseVm9FryAyBKcstdCR9n8=
+
+Name: base/res/raw/pokemon357.ogg
+SHA-256-Digest: Lbxw/YCMAqfBsO+Y6BEP8iHFaV5wo9aTxsIgXC0tJNY=
+
+Name: base/res/raw/pokemon358.ogg
+SHA-256-Digest: JfrCqat2ATxEgbUaYaoEq0OE7i5emMp+KST0/37tV3g=
+
+Name: base/res/raw/pokemon359.ogg
+SHA-256-Digest: fTVd12hzFnwmsh1itTHtaIavFegu1wVs+IDSbAx2adI=
+
+Name: base/res/raw/pokemon36.ogg
+SHA-256-Digest: Sk9Ls98BdLAWePEvAxAh7D6VW9VntesSyf9nwkdqVdE=
+
+Name: base/res/raw/pokemon360.ogg
+SHA-256-Digest: /YGjGQZvRMXHZkezLGanxWstJdmoKr+zWs/fIwhlnz4=
+
+Name: base/res/raw/pokemon361.ogg
+SHA-256-Digest: DHVyGcc+TEgzLoHDbCQiDzXFRDjGToi5XYfxv59DpcE=
+
+Name: base/res/raw/pokemon362.ogg
+SHA-256-Digest: LR049bkfxu2qi81AkLduB7n5CWPdr5ETRNfRwYA4/Qk=
+
+Name: base/res/raw/pokemon363.ogg
+SHA-256-Digest: ca1jjEV6D6wagrSW/+Ry4lzpB1DhN2iA3dHKEJblK9o=
+
+Name: base/res/raw/pokemon364.ogg
+SHA-256-Digest: JuWCBO83UJPE7vG/RxAMEj9FacAyBaaJLUVWukuSKno=
+
+Name: base/res/raw/pokemon365.ogg
+SHA-256-Digest: 620Blka63LbqDFVapacGzEmor7Zni0CJN/fTZItRqXg=
+
+Name: base/res/raw/pokemon366.ogg
+SHA-256-Digest: g6HQ/hxIvQu9zQXIfq3qgN5Tm9r49dYiqcG+fG85Ujs=
+
+Name: base/res/raw/pokemon367.ogg
+SHA-256-Digest: pfTwqaVkaP5U3OkYSbEMkpXnzQnohkt26+sgrOHYmno=
+
+Name: base/res/raw/pokemon368.ogg
+SHA-256-Digest: shcJyK5NzdJLGFXoqhQrUyX0zdegPWRILjjcKVs45Fw=
+
+Name: base/res/raw/pokemon369.ogg
+SHA-256-Digest: oWmL09D6DzrQhWiISpZRr9QQ79M21mPCcZiTiJ8LoqQ=
+
+Name: base/res/raw/pokemon37.ogg
+SHA-256-Digest: tInLSsez7Dk9xK53SyGL/UAHvj59tkAhZcy2lp7rl0o=
+
+Name: base/res/raw/pokemon370.ogg
+SHA-256-Digest: 6tZAjQvtAYcCtno9wj5I93iAHfqeeuyhP2sUmfNLHwQ=
+
+Name: base/res/raw/pokemon371.ogg
+SHA-256-Digest: Znh/Jc+D6t4y+xPL645QEyJXcUwUMtJuEONg/E+e6Ws=
+
+Name: base/res/raw/pokemon372.ogg
+SHA-256-Digest: S24cCSl24XQnr+R1P/FTE06+5n+0iTj6PdemqUSkgfw=
+
+Name: base/res/raw/pokemon373.ogg
+SHA-256-Digest: EKhSV+W6gVS7Wj9V7xs7QAxXcCe2rNsbEHzfkJxxH4A=
+
+Name: base/res/raw/pokemon374.ogg
+SHA-256-Digest: Jsd/lkJgO6tTTZigVsFqmUuXj4x5mgJwYcfJRMquy3U=
+
+Name: base/res/raw/pokemon375.ogg
+SHA-256-Digest: KZGmTbwRtt9KG02lMv1gDeKchlH0qdOYBhisr2c19TA=
+
+Name: base/res/raw/pokemon376.ogg
+SHA-256-Digest: tFyQVfLbcZs8+WUpGlPPYvwXoDTN/Bsvm/qtlenJBcs=
+
+Name: base/res/raw/pokemon377.ogg
+SHA-256-Digest: kL6o6w0sNrmGOK9ZJHLfaWcX+S6RzIiNRv0D2x+i+mE=
+
+Name: base/res/raw/pokemon378.ogg
+SHA-256-Digest: HJQQQQZUYysHpBeu1BRaxBBV2kuCSqt/bJRqkMXR5KM=
+
+Name: base/res/raw/pokemon379.ogg
+SHA-256-Digest: 4kh5dj8RvuNrXXNy+zQuSELqBrN+LhTdkxEbcRIvInQ=
+
+Name: base/res/raw/pokemon38.ogg
+SHA-256-Digest: BP5kZUXLqPMm9AkVAttI8bixd/8Ldl37OulyANHPH5k=
+
+Name: base/res/raw/pokemon380.ogg
+SHA-256-Digest: rSWjvIMiAzsKFXpeuEAj2D8tbCoWBLdWhxmmVSZoC9k=
+
+Name: base/res/raw/pokemon381.ogg
+SHA-256-Digest: emxcEgcJOOofc+opJKRuHeMjh8O+qP6N16xELU0G7+I=
+
+Name: base/res/raw/pokemon382.ogg
+SHA-256-Digest: HijiQuI9y5HD+qDpyFM4Vu64gmGq+8hbeIA2Z3Mn4PM=
+
+Name: base/res/raw/pokemon383.ogg
+SHA-256-Digest: AUQszdlu0Gpc/gHg64DQXv4caxO3lMmx5aaFoZMumIM=
+
+Name: base/res/raw/pokemon384.ogg
+SHA-256-Digest: zYX4Gi5OXC1xaiK3Qzltjoy4zV2c331HSlVy7Tz856w=
+
+Name: base/res/raw/pokemon385.ogg
+SHA-256-Digest: kAa9O46FgboND94i2DLmNkkYvYvbVSpgoqgig+5sZTQ=
+
+Name: base/res/raw/pokemon386.ogg
+SHA-256-Digest: DlMQWd8b+SRMw/i+i3xUl6FtXW+k5G50sszKcrLCMNw=
+
+Name: base/res/raw/pokemon387.ogg
+SHA-256-Digest: ExkgdGzHEL9+/v4Yj29aEIKXLqUnLuXulLDFhK1zdsY=
+
+Name: base/res/raw/pokemon388.ogg
+SHA-256-Digest: XKOEZhUVYDXLyFMlcU/mGT1HIKHW7cwvm8OG+aSXhGU=
+
+Name: base/res/raw/pokemon389.ogg
+SHA-256-Digest: U0AIMTJaDGpnAaDVIE2y59TySTctH+AGppyJEsmuCgs=
+
+Name: base/res/raw/pokemon39.ogg
+SHA-256-Digest: 9YyuoadI4c/+8n05d4AsxRReWblkdBf1f/di/mGH57M=
+
+Name: base/res/raw/pokemon390.ogg
+SHA-256-Digest: GnjiQd+XZGJFqVHjI/RrSBljdBjtXg60fpz5NQ8z3sQ=
+
+Name: base/res/raw/pokemon391.ogg
+SHA-256-Digest: mxXZPnNBOMFih9N+gb5IiUIic2hc93GYiBBz1eVMA3U=
+
+Name: base/res/raw/pokemon392.ogg
+SHA-256-Digest: NzHEOJmTnap9bA8a8iC15d946PC6W7nqg5TZSH7wY0Y=
+
+Name: base/res/raw/pokemon393.ogg
+SHA-256-Digest: YZpSBFiG/YVVDDTwTN7g11VEEj4HS1B8jGndJoIuX6E=
+
+Name: base/res/raw/pokemon394.ogg
+SHA-256-Digest: EmTh60Dw1L1Q9fDGzHaEM2TE76ei8QL1YhXhexUBuoU=
+
+Name: base/res/raw/pokemon395.ogg
+SHA-256-Digest: jXIQvSwWy+xB2Dpi22MOyDMGFq+PDfct6tNWHoLKqAA=
+
+Name: base/res/raw/pokemon396.ogg
+SHA-256-Digest: qKlqzZsTioZoaeUZMjanNCjOhluR6CUP6sYK/FsV+F8=
+
+Name: base/res/raw/pokemon397.ogg
+SHA-256-Digest: dPe/1Jd9YMZ7OfprBUnCElhMOqgTDNeP5TfhKhFsqQw=
+
+Name: base/res/raw/pokemon398.ogg
+SHA-256-Digest: PIFxTufXewf3WAGtscXx/CTSVPMGewVXYEUrc9CTi48=
+
+Name: base/res/raw/pokemon399.ogg
+SHA-256-Digest: 8U/+yWBvBSyxTpOe30T8VOIny0K5Qminr8mUEWwxEu0=
+
+Name: base/res/raw/pokemon4.ogg
+SHA-256-Digest: vbQc7NWpSO5LGeThMVary9sr0+nJ9FjWX+LGSof9hS4=
+
+Name: base/res/raw/pokemon40.ogg
+SHA-256-Digest: DkNInQRLL00+8YIcJvXnh7a0KzlA2nS0bbtZdtRwkQg=
+
+Name: base/res/raw/pokemon400.ogg
+SHA-256-Digest: lbTR/YSsMT6jDfU7jF/uPPiql5am7C/pCkGyzwTrNh0=
+
+Name: base/res/raw/pokemon401.ogg
+SHA-256-Digest: xiSSRdaDNUCFwaTQe83qm31RfvivHh+3QMY28dJ5yWg=
+
+Name: base/res/raw/pokemon402.ogg
+SHA-256-Digest: P3ATe8InCtDBzBEjuoiWFmHDkhbnNhyfn5coOclDvAo=
+
+Name: base/res/raw/pokemon403.ogg
+SHA-256-Digest: f6b2C2xmm21MsrFsIdV12F3qo0j035POz0wAjB0XMK4=
+
+Name: base/res/raw/pokemon404.ogg
+SHA-256-Digest: J5E+5cM+wB6h7SBiUItXrN9TPSXqMAMPKNP1Pmir0kw=
+
+Name: base/res/raw/pokemon405.ogg
+SHA-256-Digest: 6bnRXkT8fN+gv4EwdCgas1Ry4hw8y/sUgaDC2G6C7YE=
+
+Name: base/res/raw/pokemon406.ogg
+SHA-256-Digest: 4c4GSUv9wuh9CWJy92+iGMuYqQ7X9vkjOYGOKsiNOgk=
+
+Name: base/res/raw/pokemon407.ogg
+SHA-256-Digest: pNHSwIOoY7MecEn1FGV8N1Lp0ad28jp1yPMW/2dQSSA=
+
+Name: base/res/raw/pokemon408.ogg
+SHA-256-Digest: mYfxwuelJE01b3B2DNU60q3f7kd97l734FG+pgoe1d4=
+
+Name: base/res/raw/pokemon409.ogg
+SHA-256-Digest: VYnOybu/+fzGeTZnaB23X7k0uGYiigB1E6XNS99zF0o=
+
+Name: base/res/raw/pokemon41.ogg
+SHA-256-Digest: yBlS8b5VOcLFzWGRyTGfYf5c1jAha7pscDoAn/PDKVs=
+
+Name: base/res/raw/pokemon410.ogg
+SHA-256-Digest: fc34iLi7I77r+6tMigPhTm7NYyWh/pZNTYYEOrDzEyE=
+
+Name: base/res/raw/pokemon411.ogg
+SHA-256-Digest: 2Wt8fPGbhUdeQZYK9ou2+GT5H55TkTlR+dvtix96klg=
+
+Name: base/res/raw/pokemon412.ogg
+SHA-256-Digest: aLou4qURpsXbF+orGCzpEREemUav8YWTDbYS6zL3Ck0=
+
+Name: base/res/raw/pokemon413.ogg
+SHA-256-Digest: Cgb48Rn8miy3xUnLX+f307YTchEaJ2s3XEiUQrl+ajQ=
+
+Name: base/res/raw/pokemon414.ogg
+SHA-256-Digest: tvBdLQ9m/kLgmHoUPdeTtYZyOgjqa76GbEAQztb7ipY=
+
+Name: base/res/raw/pokemon415.ogg
+SHA-256-Digest: HoN5RPh9X+hyySWwgQZ77qEyHKs82kUAFKxnTU8ThV8=
+
+Name: base/res/raw/pokemon416.ogg
+SHA-256-Digest: vlvf3pj+wXHeeagZ6ftey14x0W7Uo7WC3tCs8TSDYOI=
+
+Name: base/res/raw/pokemon417.ogg
+SHA-256-Digest: CzVIIZ6xjTNihFKNtwj08uIivZTtshJJjMge9MIUNGU=
+
+Name: base/res/raw/pokemon418.ogg
+SHA-256-Digest: dilQlR1XXZtmlZsjLD/l1Uf6XA3U66SdXgHJLxaWGSU=
+
+Name: base/res/raw/pokemon419.ogg
+SHA-256-Digest: NYLcwZuxNIYPIF2fmuB3OCYKnH/ClCu24E7okhDm9aw=
+
+Name: base/res/raw/pokemon42.ogg
+SHA-256-Digest: iECzOe9WTMX3uhwkFqepGoFXthdEyjtaOEWG5HUNaa0=
+
+Name: base/res/raw/pokemon420.ogg
+SHA-256-Digest: kbkrDU/dT7Lha1ZPRwMC3V8w8aCwcjK5EGZAuPWYMo0=
+
+Name: base/res/raw/pokemon421.ogg
+SHA-256-Digest: PQYPQfLXyhFXaH4g3SFYTmvvAlA8w3qpaOezc2OO5VI=
+
+Name: base/res/raw/pokemon422.ogg
+SHA-256-Digest: 5EviiO0ZmSRaKGsiP4Z9rBrgwsKKVisdO+WR43j35G0=
+
+Name: base/res/raw/pokemon423.ogg
+SHA-256-Digest: 8rmG4n0N9JFm++loIEsfbMFKMImUAmGQlFA6xRY4vKA=
+
+Name: base/res/raw/pokemon424.ogg
+SHA-256-Digest: 39+0DKumz+GsnhLO3xNs7UT+bTpJOC9ez6L0hho5oKA=
+
+Name: base/res/raw/pokemon425.ogg
+SHA-256-Digest: ZQufiy72ycgBjZc56n6gx3yyNvmmSISlg9O72GMNCCA=
+
+Name: base/res/raw/pokemon426.ogg
+SHA-256-Digest: w1FQT2sxA3LuhKBEtjYSFbexsptKXRsbSNTZUUZVVb0=
+
+Name: base/res/raw/pokemon427.ogg
+SHA-256-Digest: owPu1ur6XppqWTtJdZAwVQla8HgrWA+372MwbfaSnTo=
+
+Name: base/res/raw/pokemon428.ogg
+SHA-256-Digest: BiNI2bizTz8WnpOEf4iHDF+Gcp1g8RTHrwPSH5xWGs8=
+
+Name: base/res/raw/pokemon429.ogg
+SHA-256-Digest: s9+ECvJHTPg3huDEg2bJQYrjece116/jxCynp3XRc2k=
+
+Name: base/res/raw/pokemon43.ogg
+SHA-256-Digest: 908l1I/eXka210apTWQTgOAOXT9lqHDaXbXE3vJFtM4=
+
+Name: base/res/raw/pokemon430.ogg
+SHA-256-Digest: 8pkGo9mO5+1YuutZ5OG5lEMHeMjaH21qhaoEFS/1R4c=
+
+Name: base/res/raw/pokemon431.ogg
+SHA-256-Digest: ckoHmlNm6QNlP08iXcstKCsB7kkBYRHYGPBTsxR9z2U=
+
+Name: base/res/raw/pokemon432.ogg
+SHA-256-Digest: n9J1pmkepqJMITyx9IPfZwa5e7eTNWp6IKFrP+lN0/Q=
+
+Name: base/res/raw/pokemon433.ogg
+SHA-256-Digest: +xXlRyTkpK3S2afWbN4EyNlnZxqmAd+gg4dd40HQ5uk=
+
+Name: base/res/raw/pokemon434.ogg
+SHA-256-Digest: p1forkcXXQ9ozlomj/qt0Q9ZlFEHy92N3kx0Eglem0w=
+
+Name: base/res/raw/pokemon435.ogg
+SHA-256-Digest: s0vBXeXpzda0td+ltTfy4QBwZ+rziyG7gSI4fpevp2U=
+
+Name: base/res/raw/pokemon436.ogg
+SHA-256-Digest: asVyeCH4uHPPIijoSiX9/q0ubKrxGfUutwO+eBpHt70=
+
+Name: base/res/raw/pokemon437.ogg
+SHA-256-Digest: xbiBcIH/LxJlEJ43EZTt566SyAdfwfT26aPYaz8XFSM=
+
+Name: base/res/raw/pokemon438.ogg
+SHA-256-Digest: notDAetDfeuhwB2Cs13AhQj7FfqZqlf6r7CeAzlSOn8=
+
+Name: base/res/raw/pokemon439.ogg
+SHA-256-Digest: E9xKaPHkRgCd15vIYs39T2z24BUHE7uOmX4KfAf2srU=
+
+Name: base/res/raw/pokemon44.ogg
+SHA-256-Digest: LEPtWC3eoluJaujv/psVTfYso+N4+iW77tU0LSR9ggs=
+
+Name: base/res/raw/pokemon440.ogg
+SHA-256-Digest: e9wBJ6MYtR/XepQg/WiswznimZLUf6xeEsOQkD9/mB4=
+
+Name: base/res/raw/pokemon441.ogg
+SHA-256-Digest: DM1D15BzS7nCsblOgPLYjJXXrLnJQ6bjp9raS5RexOA=
+
+Name: base/res/raw/pokemon442.ogg
+SHA-256-Digest: CwjxR+mcH75OSsULBkCL8BxKmw7/kIL3/vYXqR6VwWc=
+
+Name: base/res/raw/pokemon443.ogg
+SHA-256-Digest: XifKe0h6XSYf+6GhRS3rWMJMWEFzFaRT3/2yJDkZTL4=
+
+Name: base/res/raw/pokemon444.ogg
+SHA-256-Digest: AOR2Yjzr9m5MLRrNIOv9Fa5n2YIudxAgfsvbIXqQGYk=
+
+Name: base/res/raw/pokemon445.ogg
+SHA-256-Digest: HzK1fAhlnnWqF4F+SS1KiyWq92YO1jniidG4qS2thhw=
+
+Name: base/res/raw/pokemon446.ogg
+SHA-256-Digest: nE8AH83Rvgg64ZPevsNZXBWP2nPnLP8MwEkGBt2Ex3c=
+
+Name: base/res/raw/pokemon447.ogg
+SHA-256-Digest: VtD7FKcKUBkj0breBS7nhTRoYQTCluExNdz/1qt8Hp8=
+
+Name: base/res/raw/pokemon448.ogg
+SHA-256-Digest: fUvt+l6SjcvBk7oVrK5dwHdLV70JnCKxqboQe6rIj3w=
+
+Name: base/res/raw/pokemon449.ogg
+SHA-256-Digest: pObml2oRioXCA7vLkNY116lHJa3EkAfS1ePXOUNz+7Y=
+
+Name: base/res/raw/pokemon45.ogg
+SHA-256-Digest: hQx8MyMpMZhYpNmKL9rTTNUhxTL9wsyetlnsim9Y0AI=
+
+Name: base/res/raw/pokemon450.ogg
+SHA-256-Digest: R6Onfja/rRwW3Xr93Wx9sAOG8A4YTwMFiZKlvzqx+ng=
+
+Name: base/res/raw/pokemon451.ogg
+SHA-256-Digest: OuEfg1D30nkaP8zCJgP4t1+PHVWRNBqQ9CGehGBzcBY=
+
+Name: base/res/raw/pokemon452.ogg
+SHA-256-Digest: mjI9Xts70vf7e7bdg5vgRoLkCQdNO/iBZQej3EahSBg=
+
+Name: base/res/raw/pokemon453.ogg
+SHA-256-Digest: dU3yUTLQCRSoXGckyTnpBVh6eyPamQNnhUNPG2/c11o=
+
+Name: base/res/raw/pokemon454.ogg
+SHA-256-Digest: IFHv0TZUB0h+hEPbVNN5NYdJtuiyXt7v4ZbWTOqd5lg=
+
+Name: base/res/raw/pokemon455.ogg
+SHA-256-Digest: G24HoBFPREwLSlq9klruv0R6AQU2sZkrq129aTsOtGU=
+
+Name: base/res/raw/pokemon456.ogg
+SHA-256-Digest: D/vOBmjytJbUjvebZ6/VNouOJdvkIcWYldq+26jcshQ=
+
+Name: base/res/raw/pokemon457.ogg
+SHA-256-Digest: AzYaQLnn1VEo21b8jUDdqWYRZFuRbFZK9PUsGSrDhZ0=
+
+Name: base/res/raw/pokemon458.ogg
+SHA-256-Digest: bd6f0LfBUD/lJRwLlRcEm/Nhap/zkTY06dsP7yBhjAw=
+
+Name: base/res/raw/pokemon459.ogg
+SHA-256-Digest: XDIUJglMzaQ8Dld9u9Ljmm0PTBD98sfBDtGhFLNNHWQ=
+
+Name: base/res/raw/pokemon46.ogg
+SHA-256-Digest: 4lCcBcKp/HODwydLXwygXWnZkvhxH6xN2vMFbHP5bZI=
+
+Name: base/res/raw/pokemon460.ogg
+SHA-256-Digest: x401yhYfSa76LolaD6quPV7Ligkp8iEqhKafL/hAHJA=
+
+Name: base/res/raw/pokemon461.ogg
+SHA-256-Digest: 47VEj9lCc45g8XMPN8nHp6hcsvoxUJvGu6zaFZKwOJs=
+
+Name: base/res/raw/pokemon462.ogg
+SHA-256-Digest: /rGXN/SnTKHfOFKIbx3s0bbSTPaiCMf1tFConY/KhUY=
+
+Name: base/res/raw/pokemon463.ogg
+SHA-256-Digest: 8HJYjkn7Z6Hqayqr5kBfKQ+Kgo+HDVCsQlD8DLwTp6U=
+
+Name: base/res/raw/pokemon464.ogg
+SHA-256-Digest: WDKSms0vrrXXhAS0umtfYKFvZM0pHlvzhHIPlDW4Mng=
+
+Name: base/res/raw/pokemon465.ogg
+SHA-256-Digest: zeyjSS8xWbnb95RfraVXMIF7jwbgLE0jWgyH/u3/EFQ=
+
+Name: base/res/raw/pokemon466.ogg
+SHA-256-Digest: zCQpmrSPkSDRs62zHPuq3YqnpBh5LsFLDJ4VIzLSpJE=
+
+Name: base/res/raw/pokemon467.ogg
+SHA-256-Digest: Yq716wvvjF5Sboo48kanWH9IRmi+8bN2P7VD5+tZU0o=
+
+Name: base/res/raw/pokemon468.ogg
+SHA-256-Digest: RlSgib8NJHgyn7TSlC63DcmoKxX0Dy/wYc0a11BP4R8=
+
+Name: base/res/raw/pokemon469.ogg
+SHA-256-Digest: aR/2SMc4nIrU+E5XuBH728wwZcolEZLk+TocTx0iIBU=
+
+Name: base/res/raw/pokemon47.ogg
+SHA-256-Digest: of3+k49uu01ft0fUBYBVJZQKI74UotAwqLBsf33TE+I=
+
+Name: base/res/raw/pokemon470.ogg
+SHA-256-Digest: 29hcouYtX+/xcOFkZiDSQjlUjCUiYzMyiYJfahvxoBk=
+
+Name: base/res/raw/pokemon471.ogg
+SHA-256-Digest: WSKXih5lwmxVAY/8/IbuuIqREz8nwnzXhGUkWtfTBEs=
+
+Name: base/res/raw/pokemon472.ogg
+SHA-256-Digest: Y3GxyvONsYDy71Yu27L2fNNtqsESNbMZLWT9GbsjkMs=
+
+Name: base/res/raw/pokemon473.ogg
+SHA-256-Digest: qIkZ91RGTUpB2t0SeFMnSH+N7ly4gVy8AF91m29oumQ=
+
+Name: base/res/raw/pokemon474.ogg
+SHA-256-Digest: MjFieHeOr0B1q4c3I34a6FM4Tlfjuqq6uCGfrUWHIrg=
+
+Name: base/res/raw/pokemon475.ogg
+SHA-256-Digest: K28gfLVcHXjs87EXh8Md2W0Vi4nucbmOGqmrtBVy7Jk=
+
+Name: base/res/raw/pokemon476.ogg
+SHA-256-Digest: tuaaZnACf6fWhR5KZxQfE0VGfKz926hhR0u7E5Lnum8=
+
+Name: base/res/raw/pokemon477.ogg
+SHA-256-Digest: HdYRlVResu9PmXEzmYcjZaqNYN9VeQHf4+SLURM4tME=
+
+Name: base/res/raw/pokemon478.ogg
+SHA-256-Digest: lJLr/eabNqQrJLu2xrGR1lG2/obe+vox+7t/bhW6Vso=
+
+Name: base/res/raw/pokemon479.ogg
+SHA-256-Digest: F+t3qOwXcI3JFMcAa0gWGq6Q0sz2TD6s7z6IMKc+rm4=
+
+Name: base/res/raw/pokemon48.ogg
+SHA-256-Digest: DmusaT6D7xFXPT3dzu09Ploc+Xp7HzcxN+3DJ0UOoHM=
+
+Name: base/res/raw/pokemon480.ogg
+SHA-256-Digest: uqguW3uBq090QFfScnrx8EHSjsC05Kdl6RTMK3SM+CA=
+
+Name: base/res/raw/pokemon481.ogg
+SHA-256-Digest: AQtDZS7uMBSO+BgJOA/0XRRjruw2K/5VwhZz7z/POlg=
+
+Name: base/res/raw/pokemon482.ogg
+SHA-256-Digest: ZIWPBJq1hWK1huXf5dOeChSCVPc9sXbflZOfhbgtQOI=
+
+Name: base/res/raw/pokemon483.ogg
+SHA-256-Digest: 5O8Cl0tZNRiITZi2iNpufPHJbZIQpNjWQCFRejwfhhA=
+
+Name: base/res/raw/pokemon484.ogg
+SHA-256-Digest: TFsdolI9UQdjLXdVAmaUhN1tV2kvoXpXV+tWjOo1XIk=
+
+Name: base/res/raw/pokemon485.ogg
+SHA-256-Digest: mYrA78xsyE6QlwT8C16H8elURPi3NbGwImAGqnD4OgA=
+
+Name: base/res/raw/pokemon486.ogg
+SHA-256-Digest: +MJnYs9bBoRkExM9JrBRtfRMP/9ZCUQbOrhgkTXQAYY=
+
+Name: base/res/raw/pokemon487.ogg
+SHA-256-Digest: hAtu05x5O/0Fp1KzL31/QNq/wSobAz1YJfmjSeJsXX4=
+
+Name: base/res/raw/pokemon488.ogg
+SHA-256-Digest: D/CB4ohpPV9Z0McDlWjdwfZkJ5KqvhGtmsKQ6pgEAt0=
+
+Name: base/res/raw/pokemon489.ogg
+SHA-256-Digest: Up/ian8d/3/Y7tS+uvEiFF5dNIiDWnl7p0JIHQueyLg=
+
+Name: base/res/raw/pokemon49.ogg
+SHA-256-Digest: 99u8wArIiBwYkngY8dnE7fiePGPRfAAob8To0sM1E14=
+
+Name: base/res/raw/pokemon490.ogg
+SHA-256-Digest: /DomChZFhaVfP2heHKp1qyEJrt0e2xmp5TdzDtJpzLk=
+
+Name: base/res/raw/pokemon491.ogg
+SHA-256-Digest: eC/WqeQYUd59Xvi3lzgGC3lIPDyp+6DxIJwkbnuT93Y=
+
+Name: base/res/raw/pokemon492.ogg
+SHA-256-Digest: YozFlEmEAleyJkSalEmq54Zsj7jpL+vPsU7sg+M2qHU=
+
+Name: base/res/raw/pokemon493.ogg
+SHA-256-Digest: SegGdMKFkQt3gkq1LcR5or8+Z8y33uZTM2yh7Tr9K+w=
+
+Name: base/res/raw/pokemon494.ogg
+SHA-256-Digest: c4OGoqy6KZEwe45DeNw6u1WFMe2A4cI5PlN7fZ6uHD4=
+
+Name: base/res/raw/pokemon495.ogg
+SHA-256-Digest: b0BHyDi845QVD0GywEgA4sOfSTOtFsUZYwPGASyEbdY=
+
+Name: base/res/raw/pokemon496.ogg
+SHA-256-Digest: FZ5P3tCzSCGByAqj0TCK3ljqQJ1Smk8g2TSfgALQCZw=
+
+Name: base/res/raw/pokemon497.ogg
+SHA-256-Digest: 2MlaVXoZBbPeQcQ+LtfbyY15u6xztanagLn1OlERW1w=
+
+Name: base/res/raw/pokemon498.ogg
+SHA-256-Digest: lnF6/38M4WacbIYgYBGEbGgQU9n/yqB/SnPlITSzX/Q=
+
+Name: base/res/raw/pokemon499.ogg
+SHA-256-Digest: gmDb9wRJmgDBiI66B1A3U5Wap62zQuRxit9QCi03BWU=
+
+Name: base/res/raw/pokemon5.ogg
+SHA-256-Digest: 4qb8XV6W17B5YVPaOaTTwKofPJU2DKRRLyPnF2AKD7M=
+
+Name: base/res/raw/pokemon50.ogg
+SHA-256-Digest: zmsE0EP10C7kXBC1JM7iQXUvw3ac7kb6fwun0hXSdCY=
+
+Name: base/res/raw/pokemon500.ogg
+SHA-256-Digest: 0T9s3fdTSw7rfv/cRri0u0ojYnCwJESuLjQKErqmcU4=
+
+Name: base/res/raw/pokemon501.ogg
+SHA-256-Digest: MJO4NFOqJHRlNRPVeOIemdbud0g7kUR7BRymP8VGh0g=
+
+Name: base/res/raw/pokemon502.ogg
+SHA-256-Digest: JecIbazzCHoCACXGzwsQsbjjrfPYX1ukiGHBMjnnAfQ=
+
+Name: base/res/raw/pokemon503.ogg
+SHA-256-Digest: MkDBk4SO1dTpqjtiHADxVkOsu50sgN1x7EflD/ue4vk=
+
+Name: base/res/raw/pokemon504.ogg
+SHA-256-Digest: TMnCCRkyBffQjMGn5MY/9AHImVTTlmk1i6HFDaPn9Uw=
+
+Name: base/res/raw/pokemon505.ogg
+SHA-256-Digest: 4AmjKv8F1M3fZ+FZetQ4JTlgjNlzYdJ9vC3nRW7mg1w=
+
+Name: base/res/raw/pokemon506.ogg
+SHA-256-Digest: LWPNPX8XBLGN6zGPJ/z3vjwrJm3XgkjqTOl4Yt5rcy4=
+
+Name: base/res/raw/pokemon507.ogg
+SHA-256-Digest: 0bmo4F0SOUz1fr5KIK84uZ9s57ZFWtLJHHOGZjHlOlY=
+
+Name: base/res/raw/pokemon508.ogg
+SHA-256-Digest: O8RGcCQsmJvEK6GWFLZSfGUv8/TEAbNNPohLM1Tjtzg=
+
+Name: base/res/raw/pokemon509.ogg
+SHA-256-Digest: DyDEykU1jw5VPpBD2ACj0DxF8aLEkQYPRao/8eYrVfw=
+
+Name: base/res/raw/pokemon51.ogg
+SHA-256-Digest: 7FAhYIfvfPErpnykEh0ZiTKpXjIdngbw3SvV3iz8iug=
+
+Name: base/res/raw/pokemon510.ogg
+SHA-256-Digest: oQSbTJDM+fQH3v/uxIh+O0j9AgIB0bAY4ofbaiPZkrQ=
+
+Name: base/res/raw/pokemon511.ogg
+SHA-256-Digest: v6s97vrBal2qqL/fZjvrYSAmLBE877Xg/hZlIur1IcM=
+
+Name: base/res/raw/pokemon512.ogg
+SHA-256-Digest: Vo1bnYZjFst8zcfQaQCEsJy+IPh9gvwJA80PbuptYS8=
+
+Name: base/res/raw/pokemon513.ogg
+SHA-256-Digest: 1R2WecXSijQU/9uQ2HoE4/OM3k+F0+sY5YDPpsK23NM=
+
+Name: base/res/raw/pokemon514.ogg
+SHA-256-Digest: UJV8MrNywzt1n8vgnIDzwmn4jJOxb696NZDMRug7+T0=
+
+Name: base/res/raw/pokemon515.ogg
+SHA-256-Digest: oMq8z89Pmzt9EP6W7CAWKR5s8oSiEeYBRewjlzYzyTM=
+
+Name: base/res/raw/pokemon516.ogg
+SHA-256-Digest: djqNsrLrgz04AsOwkpKbJTBhnT6fEzKvajBKU7wFecg=
+
+Name: base/res/raw/pokemon517.ogg
+SHA-256-Digest: GguG3zDX5AYn3Qv5iXNRcFk5QviBVLNgMk02/r3vuVE=
+
+Name: base/res/raw/pokemon518.ogg
+SHA-256-Digest: Wn5Qgm1bH4Cw85dI+uwrVMBBL/v6N4KVMBzKOfgkrnc=
+
+Name: base/res/raw/pokemon519.ogg
+SHA-256-Digest: WWTWWCMvb9VcSzm7cjmcZB1BOzM1I6RSWtkMXgBQ644=
+
+Name: base/res/raw/pokemon52.ogg
+SHA-256-Digest: RxjcpZAlhPa7JDWJ4N1Xuxic5Tc9WU69dBrYplRDAt0=
+
+Name: base/res/raw/pokemon520.ogg
+SHA-256-Digest: jK7P+SzxZL/2d1lTed31pMIRTU7PSoO83BAdTkj0jZI=
+
+Name: base/res/raw/pokemon521.ogg
+SHA-256-Digest: UZk1472E3N5BESyfX9+YoPRIq3JqCw2b1zaiSSgtbEI=
+
+Name: base/res/raw/pokemon522.ogg
+SHA-256-Digest: k2AKeXuHoOT6Qm7j9G5ks7XwZdI6h0VNZLDMEZPmWXM=
+
+Name: base/res/raw/pokemon523.ogg
+SHA-256-Digest: pKdOFTXZLprFMM8RodHxyXZ9M5gJ85EENfUx0U8cXmQ=
+
+Name: base/res/raw/pokemon524.ogg
+SHA-256-Digest: 2nBOpF+AmSynIZlywM082IzXsaEIlryEDvZKMLFkdZw=
+
+Name: base/res/raw/pokemon525.ogg
+SHA-256-Digest: p9HVJat/OcdyA7t4dZKCutIzruoe00mMboIU3rfyn4Y=
+
+Name: base/res/raw/pokemon526.ogg
+SHA-256-Digest: fyBaGZcygYPE/CkogLfd13OTgcMw5MkskPZNQfPdBSE=
+
+Name: base/res/raw/pokemon527.ogg
+SHA-256-Digest: RunOhu8UqEsONvOW9V/p6tQfhc6ceHZj3xJLhPkQTj4=
+
+Name: base/res/raw/pokemon528.ogg
+SHA-256-Digest: t86DvLUyGo5Gyn36dcsmhkOohiyjl1gwpokeNib4DCg=
+
+Name: base/res/raw/pokemon529.ogg
+SHA-256-Digest: rZEgN8246VphUyBvS09A/MbJhcxEBWtZrA27tvIzxVI=
+
+Name: base/res/raw/pokemon53.ogg
+SHA-256-Digest: KwquqWFEmybo5SX6hI7RsUCH3pOrOXeogv4BngpzNUA=
+
+Name: base/res/raw/pokemon530.ogg
+SHA-256-Digest: FWDYwHygPeB1ccixRqGQwRvOQIAnw2B3nYcqS5J3Vmk=
+
+Name: base/res/raw/pokemon531.ogg
+SHA-256-Digest: MzxPVSgUCLmrPzp0I0KIl6ij5MRb0FjSyMqbEwypq8g=
+
+Name: base/res/raw/pokemon532.ogg
+SHA-256-Digest: iT7i4KzK/97ndY9Z2jhm6EOdrjxgO36FcKUJZANUcK8=
+
+Name: base/res/raw/pokemon533.ogg
+SHA-256-Digest: /QxWIyDYPBVGO9JlFeX0YF8qt93NDDIj/SoFEwkPoP0=
+
+Name: base/res/raw/pokemon534.ogg
+SHA-256-Digest: 1iMjV6W+XxHBHNjzbAce35SGhsYG39TwXqWMqPsoOiE=
+
+Name: base/res/raw/pokemon535.ogg
+SHA-256-Digest: 5c7oALks4Aokd43aMiUgg0YWOawHa0Gt/cTu17K+Y6U=
+
+Name: base/res/raw/pokemon536.ogg
+SHA-256-Digest: eICbFB+xaWYbGQML87bO1R4lLORs0buez715/Nh9yUY=
+
+Name: base/res/raw/pokemon537.ogg
+SHA-256-Digest: 9hgQ4t0zGejI1egY1Gzud24ztkypsV+oF88edx3OCZg=
+
+Name: base/res/raw/pokemon538.ogg
+SHA-256-Digest: YHVPboUXk3jJqxgb3S0zqksGLk5Osc0ECocZS0aQAz4=
+
+Name: base/res/raw/pokemon539.ogg
+SHA-256-Digest: j+Ui6KpP9tM6XcQWHQICniuSQs0X8cO1+mE3g9H0JAA=
+
+Name: base/res/raw/pokemon54.ogg
+SHA-256-Digest: IxOxdJukRvetVjTa/tRra3Ld5srV2tRSm0XMF7T1swY=
+
+Name: base/res/raw/pokemon540.ogg
+SHA-256-Digest: G0NS9NTnUze8ZeMpZsc51qdEZYrnlKGt396CwIeUGa8=
+
+Name: base/res/raw/pokemon541.ogg
+SHA-256-Digest: Q4/Yicsqt8atJGAOzP4JJ4q54wDCnRnRNlCinoeqa9g=
+
+Name: base/res/raw/pokemon542.ogg
+SHA-256-Digest: ep+kYTr+X7iRBrsxuScB1k7PrWpT8HUrCpOWGsIqcsY=
+
+Name: base/res/raw/pokemon543.ogg
+SHA-256-Digest: 5zoLRKCbBRUONu1kxuMtrGtYF0WHS7q3wUL43PuGUpE=
+
+Name: base/res/raw/pokemon544.ogg
+SHA-256-Digest: hEDNu5YKhhVzV7sGEgAagXDBESvshS15H8aheGn3kxk=
+
+Name: base/res/raw/pokemon545.ogg
+SHA-256-Digest: 7naEf+01D5Vof2y81ov9MtUn16ruVB0uHSmdnLytYr4=
+
+Name: base/res/raw/pokemon546.ogg
+SHA-256-Digest: 1bqgrRJTnErTfgDkTBQf+k0PgRBvvtn3iYwRh5S9Ehg=
+
+Name: base/res/raw/pokemon547.ogg
+SHA-256-Digest: yXpAEyUosdzlaZRCkrthsZHpQNFcfumEgfPx2n4viFc=
+
+Name: base/res/raw/pokemon548.ogg
+SHA-256-Digest: NGVHR4fGArz9UYJ6fe+WlVM0fEHfYsccwL1oTSMYJQs=
+
+Name: base/res/raw/pokemon549.ogg
+SHA-256-Digest: 9eKh5kDqvCabj+FkFn4YTZ3/ftQUOKRYqCjtj2xYFHU=
+
+Name: base/res/raw/pokemon55.ogg
+SHA-256-Digest: Em39LBmztUw9aNbGhOYanPUtif1lWBEu2jEaaqT/K+U=
+
+Name: base/res/raw/pokemon550.ogg
+SHA-256-Digest: 4r2YtUU1l5LzSeGbMD3XU2wnscMgYayYbx2pRYp4sa8=
+
+Name: base/res/raw/pokemon551.ogg
+SHA-256-Digest: g2ZRm/zEyGBvMAE0wF9cnqlYIKSiO85EEs+CbyVJYVQ=
+
+Name: base/res/raw/pokemon552.ogg
+SHA-256-Digest: T68BDC0DdtYt/FO6THkG3GG8Ez2qjp4t+vjd4MyiO8A=
+
+Name: base/res/raw/pokemon553.ogg
+SHA-256-Digest: /LtLeKI3p+gJdPUhHamtlcqKKospujgKXpT/qesnuxM=
+
+Name: base/res/raw/pokemon554.ogg
+SHA-256-Digest: oxKgOMROs13Uf7dKG8fg1+OwNERN+0HWT+ukatTcQXU=
+
+Name: base/res/raw/pokemon555.ogg
+SHA-256-Digest: d5y8PVSFcvFDZCbnaNxh86SAzzlIXXYHKGPcPs/XQqw=
+
+Name: base/res/raw/pokemon556.ogg
+SHA-256-Digest: 6UurzkYjWhMoIA4My0ve4EQcqMOh+RzzuEXuf5DrVOI=
+
+Name: base/res/raw/pokemon557.ogg
+SHA-256-Digest: KziwNg5EHSYCghEhWfT9FFmYmPdD8LUBM0Ee9yV2MIk=
+
+Name: base/res/raw/pokemon558.ogg
+SHA-256-Digest: 1tSh1Z5sl2oxp77zliFJ8TrtcbAzxlnuvkDTtYZu9DQ=
+
+Name: base/res/raw/pokemon559.ogg
+SHA-256-Digest: gwUguexwqi9BB4JN2mAhvtt91YRDtp7le6io5eDNC98=
+
+Name: base/res/raw/pokemon56.ogg
+SHA-256-Digest: Go4ZZP9Anw5d3gUw5OADCmzwNRSc4BOXo11rvxV/v/8=
+
+Name: base/res/raw/pokemon560.ogg
+SHA-256-Digest: JATwICvzd1T/YAYnoplU+CLmCfLIfMQpPoi5YxQ4K4M=
+
+Name: base/res/raw/pokemon561.ogg
+SHA-256-Digest: /7PwovCxZuiAoTZOvP1BX4U0y1T7eP01idUSGDWz9Mg=
+
+Name: base/res/raw/pokemon562.ogg
+SHA-256-Digest: +8BAdo7q75hksIzSpkbFn6+ww1O0raJ1OJ+BZWDKNJ8=
+
+Name: base/res/raw/pokemon563.ogg
+SHA-256-Digest: CF/ZBe/CN6nK5XrpRwIPTzSPG+/m8H9Ehvp7ZZuU4To=
+
+Name: base/res/raw/pokemon564.ogg
+SHA-256-Digest: rFF2kQZEqYK7yJ6WQydsoXD0JYc7gXivRiuEeLSU3J4=
+
+Name: base/res/raw/pokemon565.ogg
+SHA-256-Digest: +/GjSdxcgH8PfylOXhVEowFy2m7cq7oqxxvLQHzqIes=
+
+Name: base/res/raw/pokemon566.ogg
+SHA-256-Digest: uIkk0hlOJNUHvUsanwLqKsGgGYwnhUCPxklB5M+Dfg4=
+
+Name: base/res/raw/pokemon567.ogg
+SHA-256-Digest: eqd9KAhixHv7wc6rySl2qTWcplDUXMQnaEz0GRwbbQU=
+
+Name: base/res/raw/pokemon568.ogg
+SHA-256-Digest: mO++v5F+UjmPps16wHcX5BHSnivszCULd/lnr/Tyh1w=
+
+Name: base/res/raw/pokemon569.ogg
+SHA-256-Digest: km9Hk/+9yQQR3bR421SwSwFG1Y6w272yNKzbn+asuxA=
+
+Name: base/res/raw/pokemon57.ogg
+SHA-256-Digest: vr6l5hFjBST4NssfVUkNUP9PoZohk20Aw6UrUzlxrUk=
+
+Name: base/res/raw/pokemon570.ogg
+SHA-256-Digest: FRKX0r8aTsLGoloY0dIwF9p5pEmJ/2/vsY7jvNjmac0=
+
+Name: base/res/raw/pokemon571.ogg
+SHA-256-Digest: KgAJFcS5DqzFKaltGToD5l1cKU6hiJqR6AiwnRYhrds=
+
+Name: base/res/raw/pokemon572.ogg
+SHA-256-Digest: oVTfkf4ibDRkSs80K7pH7YXawe00iKCm8Vt1FdfxBE4=
+
+Name: base/res/raw/pokemon573.ogg
+SHA-256-Digest: oNhg3FJA6T6i2yGM6/CGiTi3wGpyNGvUhK5ys5EPe9Q=
+
+Name: base/res/raw/pokemon574.ogg
+SHA-256-Digest: 8hGMB9I8LNgkNr63SZseedxrKBkNvlxMKgoHVWYO41U=
+
+Name: base/res/raw/pokemon575.ogg
+SHA-256-Digest: TTchKjPhdylbZBtxlqp6MbmRhUYDJA3swXnD7DdvYeA=
+
+Name: base/res/raw/pokemon576.ogg
+SHA-256-Digest: R/T7LADM1qCJlCji8sXYVWoOkosbVvwm/WcKLv6N99c=
+
+Name: base/res/raw/pokemon577.ogg
+SHA-256-Digest: zfLzqL0bm5Dd6Wqq2RNzBvzmTutQNbEOsfuljYd7GS4=
+
+Name: base/res/raw/pokemon578.ogg
+SHA-256-Digest: Lagp51CkS3/NUnUa4tY2yaVuQFZyuMA994ZCBoWi2XQ=
+
+Name: base/res/raw/pokemon579.ogg
+SHA-256-Digest: e/EaY7NFqWOU/1ZgJyWchXJizpqHk9hvKhS/L5bdOBo=
+
+Name: base/res/raw/pokemon58.ogg
+SHA-256-Digest: pLzHA0NUc+sOd5wTfqmhvvMEa5XFeqlDYj7rLHRjrp4=
+
+Name: base/res/raw/pokemon580.ogg
+SHA-256-Digest: nNZMvPUpsX86luZLupe+YFWhtTxidnQygC2ErO58p8o=
+
+Name: base/res/raw/pokemon581.ogg
+SHA-256-Digest: Q+N/0avcu/zECH/LEY4xSZJfHaZA5AD97fj3dlaLT+o=
+
+Name: base/res/raw/pokemon582.ogg
+SHA-256-Digest: VJw22iNY+efXovAL5SIWn8LEJ1Arbxr+lJU7qhfPwsk=
+
+Name: base/res/raw/pokemon583.ogg
+SHA-256-Digest: /06Hvq1urkG05sK9mgxHzQuDXOH+jLDQVDoYsf40jKY=
+
+Name: base/res/raw/pokemon584.ogg
+SHA-256-Digest: Wm1oiLLXv2HzvNKngN4pjZQvCfQ3DvhQsYEholsxtYk=
+
+Name: base/res/raw/pokemon585.ogg
+SHA-256-Digest: RTAspVazDIgG0Dw1/V+TLfTxbqBJo5ZlETGMxcmhlcw=
+
+Name: base/res/raw/pokemon586.ogg
+SHA-256-Digest: egQ2UBzDu78QrpFJE4LxvpaSzqzSg3XLVZ7Aj+ruyo8=
+
+Name: base/res/raw/pokemon587.ogg
+SHA-256-Digest: o1D6ccI9491uSTeWiBn6+utLc5DbZl4no0MQocwDs8E=
+
+Name: base/res/raw/pokemon588.ogg
+SHA-256-Digest: Dc4sL53X5c+N7q15z8qHsP/9NIfFfuG+E9rxjdseIqg=
+
+Name: base/res/raw/pokemon589.ogg
+SHA-256-Digest: lmHKNo50JR9wi5Lw5PDxGnnbP7eEsabVHazSrjv3n2A=
+
+Name: base/res/raw/pokemon59.ogg
+SHA-256-Digest: LRHHZ6vuVUsarZ81013AH43cl5DheTeAMT2ZHmCAs5g=
+
+Name: base/res/raw/pokemon590.ogg
+SHA-256-Digest: xq26+Jv9XX4g6aoFZA+rvJpxX+2QZTZlFVf69LaYhXU=
+
+Name: base/res/raw/pokemon591.ogg
+SHA-256-Digest: GCa8ZBoCQX3vAKVJaeUkMGYLvYLPDKqdv3PHgGZE8wc=
+
+Name: base/res/raw/pokemon592.ogg
+SHA-256-Digest: 7lqLs6Ah5tQEM9RCrFh2FOY39WvKlirmKmOsuotet3Y=
+
+Name: base/res/raw/pokemon593.ogg
+SHA-256-Digest: vu3/ZlnarLqzlwZh0MKmxdyqOpSZ20hYOYLN22jdCu8=
+
+Name: base/res/raw/pokemon594.ogg
+SHA-256-Digest: z87+/NDyt1VDNw57XamwCN7l4qW21azPhT6n1mxI6iI=
+
+Name: base/res/raw/pokemon595.ogg
+SHA-256-Digest: bkhMxSTlwUyDcAG6a03a2DEFrEojsfnccBltmygq7QM=
+
+Name: base/res/raw/pokemon596.ogg
+SHA-256-Digest: FNgiBD3Q+v/R7s1MAMJ9LVLaonppqp+gP47DKk1vCk0=
+
+Name: base/res/raw/pokemon597.ogg
+SHA-256-Digest: QQwFtBEG80SVe/HMUr6gUy5pz9K5o5w+hCcDB0VMbzg=
+
+Name: base/res/raw/pokemon598.ogg
+SHA-256-Digest: 6Ym2awwgWP2zstpAGaYDguPeMI3/N+KcANQzFIvPwvY=
+
+Name: base/res/raw/pokemon599.ogg
+SHA-256-Digest: hQPw/CarueTV2aINNfaQg4woIFlYr8XbOFdcBjleDwk=
+
+Name: base/res/raw/pokemon6.ogg
+SHA-256-Digest: EQ+RUmNCOZpqjV5cfRK3atheklvOUJ1/1NJFmTDfCc8=
+
+Name: base/res/raw/pokemon60.ogg
+SHA-256-Digest: y/coiFZv6CoXGLF0qFuJHYxuXFdXtK1yxDhX2r6tD9M=
+
+Name: base/res/raw/pokemon600.ogg
+SHA-256-Digest: /j7+e0HYDU2k9jGF6Bi0Qagp2FJUWHnVsT61XtDfaoQ=
+
+Name: base/res/raw/pokemon601.ogg
+SHA-256-Digest: yyuXzXIyPJ9jivvnEZS8GFuArQC4ZTDhUlPisp0oSBc=
+
+Name: base/res/raw/pokemon602.ogg
+SHA-256-Digest: 0fgHTZ34qOpvtk0v6nKo1aQfAe0mcSs+ipYWlSkdNR8=
+
+Name: base/res/raw/pokemon603.ogg
+SHA-256-Digest: YFmYqRB5AGkAPQRHa7mYcTcPUESiVQ5O2bggnV94vNE=
+
+Name: base/res/raw/pokemon604.ogg
+SHA-256-Digest: dLVH6iGAQoKXaMEGKpN6C8iicmEjqCM2ArILF59nUrg=
+
+Name: base/res/raw/pokemon605.ogg
+SHA-256-Digest: CzOokh3eO1tgi4u/ylFr6yy1iA11IPo8+bygr45+M8o=
+
+Name: base/res/raw/pokemon606.ogg
+SHA-256-Digest: qDmpfkrDsXc38b/050ZCVqqrGbzzpAH6GEvpmRbim0Q=
+
+Name: base/res/raw/pokemon607.ogg
+SHA-256-Digest: 9SgybYLYEnqCnuS4TUoOKHgkUHPiICmsNSmLQiH/FAY=
+
+Name: base/res/raw/pokemon608.ogg
+SHA-256-Digest: 42cFtaJrfpTo6K/4XUptBFHmv5wI7st+BnKljbOT7Hc=
+
+Name: base/res/raw/pokemon609.ogg
+SHA-256-Digest: 0ie/TGWU1od6BjAspgFh/W5Qjia9psWD0mMyg5sX6Z4=
+
+Name: base/res/raw/pokemon61.ogg
+SHA-256-Digest: /RT+421+l/D/4d7H1+XbSMVs/wgSYd9FTpILJRm3KZg=
+
+Name: base/res/raw/pokemon610.ogg
+SHA-256-Digest: LAz+wAf01EpKYR4JHy4uQfMwwWmnB/H8aEA/w2WwIkU=
+
+Name: base/res/raw/pokemon611.ogg
+SHA-256-Digest: 1ZmDchNBPC8vzhfRqCkboADpshLfDu/s3iBWXeBqOoQ=
+
+Name: base/res/raw/pokemon612.ogg
+SHA-256-Digest: zzIDswj8eiysgYhh6L1wl69rc9JIXbEfz7OPpsauEbo=
+
+Name: base/res/raw/pokemon613.ogg
+SHA-256-Digest: jIX1IaxESuMZbIQVkUea+8n7E6ENs/gID1RtLbYrvIY=
+
+Name: base/res/raw/pokemon614.ogg
+SHA-256-Digest: KeBuBLJQB38xZZ0QJZm4PvmWvYFCC0DOsKLAPrvKrA4=
+
+Name: base/res/raw/pokemon615.ogg
+SHA-256-Digest: q25IoesqVxm6MrFvqRhb6GolOC66tvnff194745x14s=
+
+Name: base/res/raw/pokemon616.ogg
+SHA-256-Digest: tHSNVKZd1fCzzTmCP2N+YvbItFS2muTTvYSCTU/SA5Q=
+
+Name: base/res/raw/pokemon617.ogg
+SHA-256-Digest: IFawd8KO/spczPqxYM5O+Djrvxy8fTogHS0aUAu5j+w=
+
+Name: base/res/raw/pokemon618.ogg
+SHA-256-Digest: LDJqcVY6LBAFbgW7PrQ1T100jN7CrwG22loB1+OCfm0=
+
+Name: base/res/raw/pokemon619.ogg
+SHA-256-Digest: hH6e/Ob63wzMUYocHQoRtKWlL50CxEAfj0eFIh4aHb4=
+
+Name: base/res/raw/pokemon62.ogg
+SHA-256-Digest: lh6loSRebbWkWMHi4QUz1DOMAJUw09n/vE12UcKygXM=
+
+Name: base/res/raw/pokemon620.ogg
+SHA-256-Digest: 9d/PW7N4F3nNdahAh3RHSKNRhJujwOHEEwW3xXhJHvw=
+
+Name: base/res/raw/pokemon621.ogg
+SHA-256-Digest: Wc/CPjvKOHIf3b4GbpQp65/AN6vsGxqkEXAAk26lpD4=
+
+Name: base/res/raw/pokemon622.ogg
+SHA-256-Digest: nZVo+ccB8kXihk9wzmOOhJgZRLMR77iD1HqVLVh3PLE=
+
+Name: base/res/raw/pokemon623.ogg
+SHA-256-Digest: kFoYOSv2aqUY07jjHNbFlMiZa6j+ij1xmzW8m6iSeJw=
+
+Name: base/res/raw/pokemon624.ogg
+SHA-256-Digest: EGiedCrkqBJ0vqM1ASpQyKMFjkI2ibZmP4f+rAQroPQ=
+
+Name: base/res/raw/pokemon625.ogg
+SHA-256-Digest: QMAGnDGfgk9yLRvIjqhp93w2P6yXkgVedp77mgS/zFA=
+
+Name: base/res/raw/pokemon626.ogg
+SHA-256-Digest: FDMpKi+15eD6jsi2iZDBjOc/vPFxUWTLfxEsR0HtnJw=
+
+Name: base/res/raw/pokemon627.ogg
+SHA-256-Digest: syy4u2t+rD7argLDNcfjBxGkw6A2FOOtS0xTJLSw4a8=
+
+Name: base/res/raw/pokemon628.ogg
+SHA-256-Digest: QEYsBvyPrAc04bH33nwLHdQ7rN+rIJsfWa3XmQJuTRY=
+
+Name: base/res/raw/pokemon629.ogg
+SHA-256-Digest: xe9CrhfuCN3Iy8X/vE/yFhEPbY8hzyQEMC3R5w10k30=
+
+Name: base/res/raw/pokemon63.ogg
+SHA-256-Digest: OCiUJLv2fNOqaWTwkww5n/V6OyKdUqXsnQCdX3F/9kA=
+
+Name: base/res/raw/pokemon630.ogg
+SHA-256-Digest: aatBZEItnkLlO4qFnfX45cKPN2U1da2mON6PXMJyBzU=
+
+Name: base/res/raw/pokemon631.ogg
+SHA-256-Digest: U246ehYhQ7ntgI/G74Vzij22WcvLebfwjg1pEn6WVVo=
+
+Name: base/res/raw/pokemon632.ogg
+SHA-256-Digest: 3H3cFoBvAmqpxfb0D05tSW54kc4nU0C2W8IEOvmPEEo=
+
+Name: base/res/raw/pokemon633.ogg
+SHA-256-Digest: rzOeZpj3NVhKVPQBQXpMl2vRb1pVO3lXyP/h7Z+r2yQ=
+
+Name: base/res/raw/pokemon634.ogg
+SHA-256-Digest: umhoyOI9xJsOuNK8eOSWFXpE1sxgO0SsunAzo6Tr8DU=
+
+Name: base/res/raw/pokemon635.ogg
+SHA-256-Digest: zkilwuxcgHg6Gzby7PysdD6jXYFRfBfe3cndZkHqT3Y=
+
+Name: base/res/raw/pokemon636.ogg
+SHA-256-Digest: kmS3ReTCXKQEDFZziyqhRWDU1r8blkYnNARLP4mJuL0=
+
+Name: base/res/raw/pokemon637.ogg
+SHA-256-Digest: WEsSIOnlkczuYmHm1wtszhA4yqmBRlk8AsQOwmPoydw=
+
+Name: base/res/raw/pokemon638.ogg
+SHA-256-Digest: mzApeyCls+Nzm6H07alaKjzKvUMRLVG66osBfimysYU=
+
+Name: base/res/raw/pokemon639.ogg
+SHA-256-Digest: Gf9rB+rbWPiQDyZ/6XKLmVyJgXZDBcj5/6/3nB6c6aA=
+
+Name: base/res/raw/pokemon64.ogg
+SHA-256-Digest: B1MT5SGgkXWYgReP62iUufTvI1uqP+kn6ofB3sd5Dbg=
+
+Name: base/res/raw/pokemon640.ogg
+SHA-256-Digest: iYAQWTGRNmy3gIg79w0vwz6Fo7mvNq0A3JWvUtQt8Ag=
+
+Name: base/res/raw/pokemon641.ogg
+SHA-256-Digest: L4LJudByZtQHiDfYLFxSd01Bza3NO/UkDT+N2D25IKA=
+
+Name: base/res/raw/pokemon642.ogg
+SHA-256-Digest: 95tb85Yp/VD/iMHy9tE5olJS6yAMEZWNUDzceNLLxis=
+
+Name: base/res/raw/pokemon643.ogg
+SHA-256-Digest: srTZn8BxUIMGJNIdAAdC0+bhJ25D6ZdKLrpCIGatGK8=
+
+Name: base/res/raw/pokemon644.ogg
+SHA-256-Digest: HVdq3i6UkleAt+sZh6oG8wREn1mX554DGPvytrN0xes=
+
+Name: base/res/raw/pokemon645.ogg
+SHA-256-Digest: Hw4w70NsybCKsC9GJhlatN7c1pjuqVBoc5q9YmLtLkU=
+
+Name: base/res/raw/pokemon646.ogg
+SHA-256-Digest: 5PrBvET2511ltW4DJchLsscCoc6p9wLP33GzhmXx1j8=
+
+Name: base/res/raw/pokemon647.ogg
+SHA-256-Digest: k29l5D480/fa8hm0mRFu9/utmv02Sd3kVg/h2Omqz6k=
+
+Name: base/res/raw/pokemon648.ogg
+SHA-256-Digest: OIB2F0GxvNkWK/bZo9/NBqzeHRMrJpjlNLi0f+mbDn8=
+
+Name: base/res/raw/pokemon649.ogg
+SHA-256-Digest: sqEy+10qSGvkSf3BaTvoghP1WcgzubMgQqjOIqRvbHk=
+
+Name: base/res/raw/pokemon65.ogg
+SHA-256-Digest: 88Kzx20bKVissOoKLMhIbrZKg+ltTbflxxlEZIlAj0o=
+
+Name: base/res/raw/pokemon650.ogg
+SHA-256-Digest: eS8nPCo0Oi3zQV4zREl0DWWg+EiaQ/Fx60ZNqpm+eXI=
+
+Name: base/res/raw/pokemon651.ogg
+SHA-256-Digest: 71xZ51ew1r4rNpve3CMuq6rHXGhaLeDRUOxun9vtH40=
+
+Name: base/res/raw/pokemon652.ogg
+SHA-256-Digest: k6Rl+IXQM7v1jd84NCPN5/TaZDFLGT2wvyR7xQOym60=
+
+Name: base/res/raw/pokemon653.ogg
+SHA-256-Digest: eFASRHLGxxTBo2ncqCW9r0gOqZkAWlvHd7m0ionBRso=
+
+Name: base/res/raw/pokemon654.ogg
+SHA-256-Digest: Y5X50HN9SlSTqR/JicdzYPDsC0E0faG6mdEIwIuz4dI=
+
+Name: base/res/raw/pokemon655.ogg
+SHA-256-Digest: Uo5Kokc1IXs0Du20o6YVBB8l5j9+S5UUcPySo/tG3Nc=
+
+Name: base/res/raw/pokemon656.ogg
+SHA-256-Digest: GDEcDnLGAQx8huZxRE4yJuepgJSjbgQie/xWZ3IWrpM=
+
+Name: base/res/raw/pokemon657.ogg
+SHA-256-Digest: EtAIYzcOr3ITj9xe0qi5c1snFutDryelUyKSGyklEKk=
+
+Name: base/res/raw/pokemon658.ogg
+SHA-256-Digest: De7ZNFU9UWMScmn7eaFhD4+P/eHZBu726a+TdWdNLfY=
+
+Name: base/res/raw/pokemon659.ogg
+SHA-256-Digest: l1Fdn0VbLcXpo/EFzf8nOBHqXXYq913fF4gFVa1BfWU=
+
+Name: base/res/raw/pokemon66.ogg
+SHA-256-Digest: VWcj12iIZmfTA8oml4koczQbxI7MDxp0DXBmMdNK9Uc=
+
+Name: base/res/raw/pokemon660.ogg
+SHA-256-Digest: jqzzxr3qv2LSMg5J1DjU9wvAMX72RaSW7ITNS/wzoyg=
+
+Name: base/res/raw/pokemon661.ogg
+SHA-256-Digest: oO3mEuw4p7ayKhIkE6jLyBiGBDGuo1gaNaNEayh1YcA=
+
+Name: base/res/raw/pokemon662.ogg
+SHA-256-Digest: 1Psr7vSEqAmIj0P/M/98TXda+1/1+WjRXw5OfVAT7vc=
+
+Name: base/res/raw/pokemon663.ogg
+SHA-256-Digest: 2W9ak9wARsrt2vhP8PXCNfm+pRtRXazaVTBKicQtfGc=
+
+Name: base/res/raw/pokemon664.ogg
+SHA-256-Digest: yheAdXx+0v6nft7CfLi2/hGzk19SeNARLF46KCYmraQ=
+
+Name: base/res/raw/pokemon665.ogg
+SHA-256-Digest: uWTO1/cEaAGdIfQQXuyCWSUFu2JqgF+dTSAvTtNtabQ=
+
+Name: base/res/raw/pokemon666.ogg
+SHA-256-Digest: Dx4jT2Pc4cBIF5UImVu4phwnafIVvu8ik5Itj5rI9+4=
+
+Name: base/res/raw/pokemon667.ogg
+SHA-256-Digest: AQLEv5bxyTkLZtON0dE/tTfcX8M1c3v1sf+mk53r7Lw=
+
+Name: base/res/raw/pokemon668.ogg
+SHA-256-Digest: GN99jzq8/KuzASbSzZEFn8lnZFZtvGA9L2ggcxndUYQ=
+
+Name: base/res/raw/pokemon669.ogg
+SHA-256-Digest: 1UQbGwuHEm/1AXmqUsL6km5w+zzD0m8lDLyhRJgHHzs=
+
+Name: base/res/raw/pokemon67.ogg
+SHA-256-Digest: FkqGdOZSYi3wZ4k3ysHuXx0XdSfhMHCSZULD1zFKE7Y=
+
+Name: base/res/raw/pokemon670.ogg
+SHA-256-Digest: MKHBw2e3b+2AEpKqYE9njl8oY1Jd1Lp9A6STjlr5Kj4=
+
+Name: base/res/raw/pokemon672.ogg
+SHA-256-Digest: QLyfGDISAsauNOSichXVH1zrsdmnkKCmHOJqOudnv0c=
+
+Name: base/res/raw/pokemon673.ogg
+SHA-256-Digest: F4TgmSKDoFy25YeXvThRnWOHf6kKNwt6ZGw+W+vROPw=
+
+Name: base/res/raw/pokemon674.ogg
+SHA-256-Digest: phDKiQqKon/Re8VFUf3LIiMDZiDu/UeHvBxh5TqDKNo=
+
+Name: base/res/raw/pokemon675.ogg
+SHA-256-Digest: E+ccjjltJoX53FATvOkckPWe8WT4WplKQSVsRBrhXlk=
+
+Name: base/res/raw/pokemon676.ogg
+SHA-256-Digest: g7PMwKbtmBmTIfD3NnMZhp/d8xuMHMwRtOCNSElTd+g=
+
+Name: base/res/raw/pokemon677.ogg
+SHA-256-Digest: IuKKI7+sKL6GBgDQ7cWOfee3LZhpxlbjBF4jtBplcnY=
+
+Name: base/res/raw/pokemon678.ogg
+SHA-256-Digest: ln9GOSC4C3ZzNdtgHz0rY6U2ViqdvPOZbBUPEQKRixM=
+
+Name: base/res/raw/pokemon679.ogg
+SHA-256-Digest: DZY2BhFfg9OeF4abTPrpw/YLBzlc2O4/s184EQbnoWU=
+
+Name: base/res/raw/pokemon68.ogg
+SHA-256-Digest: afJJP+3McSDS/6g7bxlNQzXCYYbJ0jr2wmyLk8KcOkI=
+
+Name: base/res/raw/pokemon680.ogg
+SHA-256-Digest: CwywuaklqRc7NZAwHkL1ghT0jBSg5OQMlJwOU1h1crE=
+
+Name: base/res/raw/pokemon681.ogg
+SHA-256-Digest: kxQRc3kXt1nh1o9yWgfkDbZkAlAEdDb5XEJVLHo0Bxk=
+
+Name: base/res/raw/pokemon682.ogg
+SHA-256-Digest: ttWpO/a8RMY/i8PEJl2r4HoiNCt1iJ7Y9bbmhBmhmrs=
+
+Name: base/res/raw/pokemon683.ogg
+SHA-256-Digest: GuJFz638EwTcl7n/n1QqmqFBMtznTfKFoYwv4NGfW7s=
+
+Name: base/res/raw/pokemon684.ogg
+SHA-256-Digest: fhm+rYHOjPpCvsVyy/bWONbBmxr/KeSQm2Mxgo+YJ0M=
+
+Name: base/res/raw/pokemon685.ogg
+SHA-256-Digest: ME+mvtHQE4PKI71z+860Srp+MnjuIGze+Ozdbv3RlvE=
+
+Name: base/res/raw/pokemon686.ogg
+SHA-256-Digest: +BJlYVlFJ713FHJa4O5Na1AE0z4+6E6GRBMzP8f459k=
+
+Name: base/res/raw/pokemon687.ogg
+SHA-256-Digest: ol2BRI9aVKekFC3+M9s51BK4aI5M56JmQNg45xaV5KE=
+
+Name: base/res/raw/pokemon688.ogg
+SHA-256-Digest: z030E1H2LKldYWHRQbedTmIgLFIad8BRLalZ9Rc+62E=
+
+Name: base/res/raw/pokemon689.ogg
+SHA-256-Digest: DE+YHk2/0mIT7m8aUKTAPe7ImijUv/MFhgTTZd4NaHk=
+
+Name: base/res/raw/pokemon69.ogg
+SHA-256-Digest: UHevUNt+XACdwlfaUCTordtXT2I0p4Zi+OwBdDARBr4=
+
+Name: base/res/raw/pokemon690.ogg
+SHA-256-Digest: DsDuL9Wpf97/UUI9CTAQ+I2efCT5GQsyhi5UWtsXvcg=
+
+Name: base/res/raw/pokemon691.ogg
+SHA-256-Digest: ZV4vQCdAgyHbyn2NR5CHTMBaSf2C58pvvM92aSNqt20=
+
+Name: base/res/raw/pokemon692.ogg
+SHA-256-Digest: ISuxGP2ih/pF5wkP633iHpl/0Fe2AaPVgpthALxWZwU=
+
+Name: base/res/raw/pokemon693.ogg
+SHA-256-Digest: LM/pSOjmaCGqrvjefK2x8VlwAteVELwpwKZMbnG1kR0=
+
+Name: base/res/raw/pokemon694.ogg
+SHA-256-Digest: fnGkQP46oNA3MwckF8KawVMyIHJnRom+2asxo0sEiME=
+
+Name: base/res/raw/pokemon695.ogg
+SHA-256-Digest: +Pxz3IRhm+5TbuVpx5q4BqtqGCiueXfWpdsJfOzDHLU=
+
+Name: base/res/raw/pokemon696.ogg
+SHA-256-Digest: 9O1Sls/AicsCc4ugn1s3Cl3Hm0EWReB+RMuQDVURdpM=
+
+Name: base/res/raw/pokemon697.ogg
+SHA-256-Digest: Zspf+ly+IqTWd7vXSF8cVOzKENq41Dq1omLmtUmSbPU=
+
+Name: base/res/raw/pokemon698.ogg
+SHA-256-Digest: cudo5uVccGuq6KvprpHPotTfWsrYbkuRJ2Jr2nXnLBU=
+
+Name: base/res/raw/pokemon699.ogg
+SHA-256-Digest: SH2mg4fUQ1R2iCkaYyBIFdQ89KwFt/8pM34sImWXP6o=
+
+Name: base/res/raw/pokemon7.ogg
+SHA-256-Digest: bCYD3yCyd78ugUpaOykr20BNR62merdp/5vuWdPzhjE=
+
+Name: base/res/raw/pokemon70.ogg
+SHA-256-Digest: cb2HKo5FKgS0j1pfJXJfKVFiyQrNYBPzzCpad1DmU1M=
+
+Name: base/res/raw/pokemon700.ogg
+SHA-256-Digest: 1UX1MZrum2f6LhEXTIRYvSchcbLAW52N3NqnkKaEqMM=
+
+Name: base/res/raw/pokemon701.ogg
+SHA-256-Digest: fCuDSo0rKBeDfeoCMcPCr1jLusYay0BEa8YjdSsoAx8=
+
+Name: base/res/raw/pokemon702.ogg
+SHA-256-Digest: UigTM7figG4b2afLQs9V7rvA1b05syYPX+ze9Q+0ArQ=
+
+Name: base/res/raw/pokemon703.ogg
+SHA-256-Digest: R3vztE2gITPWxvy9qgqPKafu/DaErbQTnnwN3P28HUw=
+
+Name: base/res/raw/pokemon704.ogg
+SHA-256-Digest: 4P4pkQOGkwN6SPLhpXPbl6dIPCy+wETjdeRFMjUQvn4=
+
+Name: base/res/raw/pokemon705.ogg
+SHA-256-Digest: 8iOzsMsXy2Rd4j0Z1lqUDw+GjTkWdF7KNwbV2FGD1XU=
+
+Name: base/res/raw/pokemon706.ogg
+SHA-256-Digest: 8SO2q6fD8VKwrD5MblkJCDnIUWxvt5s/wmNVF4DU7M8=
+
+Name: base/res/raw/pokemon707.ogg
+SHA-256-Digest: qoiNgMLm4fvxN9vY6pRNWYt05jVTpc3+I06Z/2Dj/X0=
+
+Name: base/res/raw/pokemon708.ogg
+SHA-256-Digest: ipUqVFw7K5AiCCsU7wReKXjQF2A19NeEpRQX8rraLCU=
+
+Name: base/res/raw/pokemon709.ogg
+SHA-256-Digest: jljCiSRyS6nhkcwne4rriVP6gu2t6AWdOT96qz/LTr8=
+
+Name: base/res/raw/pokemon71.ogg
+SHA-256-Digest: Ca4sAo/ipL+MxLbCKg/s4Awsz0i0w/KFKknQORE35iM=
+
+Name: base/res/raw/pokemon710.ogg
+SHA-256-Digest: YKWBbzczD0Zm7HtAo/1zAz6DMreOfc2DbiaL6a5UFUY=
+
+Name: base/res/raw/pokemon711.ogg
+SHA-256-Digest: SCqaeLT5woRVo4stkbYNUsSJFhNQYoRZ6lQ0cTOqOhU=
+
+Name: base/res/raw/pokemon712.ogg
+SHA-256-Digest: vOe3oDbPTZ+XwnlXlB+3wXD1ZQBLMv8IjuXEXjjn25A=
+
+Name: base/res/raw/pokemon713.ogg
+SHA-256-Digest: gKlvR8EMpEDWtPGopoBVMAsspMukNtTKm521RzClQRk=
+
+Name: base/res/raw/pokemon714.ogg
+SHA-256-Digest: HK3MMFiZ/atC5UcT5lOCMrZmiindA5hNRztI+OapawA=
+
+Name: base/res/raw/pokemon715.ogg
+SHA-256-Digest: 8vi3rMH9uUTdOJrPObz+QBJ8BuiF9/rv0Of2laJGvH8=
+
+Name: base/res/raw/pokemon716.ogg
+SHA-256-Digest: DDqOnhmlEe+ppst0crxNH1/0r0qH7V3wzhBZaaXlJIM=
+
+Name: base/res/raw/pokemon717.ogg
+SHA-256-Digest: f9uzSZTnfl7ZLnhJ5NXczVN0PG7l0lFfse928iK22i8=
+
+Name: base/res/raw/pokemon718.ogg
+SHA-256-Digest: ojMdFd1ipVF/hE4kLn7py3EVtxPKqN+okOhZvPatvdg=
+
+Name: base/res/raw/pokemon719.ogg
+SHA-256-Digest: KlqHKEAODooWhOCwEcUpkrBzQc8HJ2CusiAufT13BoM=
+
+Name: base/res/raw/pokemon72.ogg
+SHA-256-Digest: B8p5/8trwjKd422G2yXoepDPFaPeDoCaS9k6Ug9GBkc=
+
+Name: base/res/raw/pokemon720.ogg
+SHA-256-Digest: 6DsWw6Qk0pAW3z7mWdY18bkjW1uLcjPiIGHh5sQrkAM=
+
+Name: base/res/raw/pokemon721.ogg
+SHA-256-Digest: J3OwOsPRyDY4hifCtlJ5tULO/FtCasOejzOBuFN9qpQ=
+
+Name: base/res/raw/pokemon73.ogg
+SHA-256-Digest: RUfMIoMbKgwSyuLa1WZ4YZRqBmk0k0evUTEt9UGZvvM=
+
+Name: base/res/raw/pokemon74.ogg
+SHA-256-Digest: nk86UKQ255aj10gEqcB9qpIATzdA9innP/UHeKhfY78=
+
+Name: base/res/raw/pokemon75.ogg
+SHA-256-Digest: oKG66KRy2CgYKcTZIKYaxSrIv8c7Jn7OdhyZwUf2vho=
+
+Name: base/res/raw/pokemon76.ogg
+SHA-256-Digest: yRzksKvMD1SNcYmb9UoZnzSuPMQdYVcq5TPH3b6xIsk=
+
+Name: base/res/raw/pokemon77.ogg
+SHA-256-Digest: Oob8pIeyjMtIfZOlzdouq1/fWUf0bl6pxe0IBQ0netI=
+
+Name: base/res/raw/pokemon78.ogg
+SHA-256-Digest: AXQkGG+Pit/fTWucotbPSiliNzoYO/jvx5ZP+ERZhBs=
+
+Name: base/res/raw/pokemon79.ogg
+SHA-256-Digest: +cW1kuK8NDeBvgZjA2JwpH0JEwbuWN2FffKIXQpq5Tg=
+
+Name: base/res/raw/pokemon8.ogg
+SHA-256-Digest: FoWqpeBe34IrAW8h8jNOsA7Pb25KaFiAeEapHJbkzfM=
+
+Name: base/res/raw/pokemon80.ogg
+SHA-256-Digest: BvBmtB+HiZ73ZefAzo2sJ+0HFSps7NQTzSgmy96ixLM=
+
+Name: base/res/raw/pokemon81.ogg
+SHA-256-Digest: blxHqWN9FEDa0mMoAoHstqutj9IgCcQ23clliQ1iCx8=
+
+Name: base/res/raw/pokemon82.ogg
+SHA-256-Digest: 8yP/3uzfon21QPNC33HU+RmjChL0WRyuExSd5mcsCEI=
+
+Name: base/res/raw/pokemon83.ogg
+SHA-256-Digest: hR38MaoZHsu8SLX5VTRziHTUsVcjMaRnkyMmhTXAA9s=
+
+Name: base/res/raw/pokemon84.ogg
+SHA-256-Digest: HJSgTD87YtwrVSOfnPh8r3t92Cq8SKJMTq0F1rVBWxA=
+
+Name: base/res/raw/pokemon85.ogg
+SHA-256-Digest: kMaT3SZWNQv+373n8I+0QXVxzZqSKr07/flK7DooE9U=
+
+Name: base/res/raw/pokemon86.ogg
+SHA-256-Digest: DnTYY7QvuU2chEDegAkyyRa9IsXdBrPJsY71yMIzspo=
+
+Name: base/res/raw/pokemon87.ogg
+SHA-256-Digest: GnhdiIiMD7Iir/ZcyeA8CtwVhquUFBKaiv3c5lcvHEQ=
+
+Name: base/res/raw/pokemon88.ogg
+SHA-256-Digest: tUkg8ZEpm53yitXkVCHTCLM2yVLGusKDqvlUbhz9c7g=
+
+Name: base/res/raw/pokemon89.ogg
+SHA-256-Digest: 9a+XqCj3MnlMoHffokaqlY0e+XB0/rX5LYaXo4zj2n4=
+
+Name: base/res/raw/pokemon9.ogg
+SHA-256-Digest: ZuR/pJSuchdnb87/ab31n2OZ2HFDy94pzHlY4lZTJew=
+
+Name: base/res/raw/pokemon90.ogg
+SHA-256-Digest: 5drUll+a1ryqQW9tlKYSvhNukpaOv6Af2vVM/BoKreU=
+
+Name: base/res/raw/pokemon91.ogg
+SHA-256-Digest: 2JPrjQi7j+i+HtQdKF4Woz8NMvdGK892FvBNES75cxk=
+
+Name: base/res/raw/pokemon92.ogg
+SHA-256-Digest: OCndKR/JsI+CmB/KPEafM9B/F69cB/hPlJJy2Bmmoxg=
+
+Name: base/res/raw/pokemon93.ogg
+SHA-256-Digest: m3zHQHgvQ9JrZI9Cs3jFktzmavJNkkHBx7pQmt0Rcbk=
+
+Name: base/res/raw/pokemon94.ogg
+SHA-256-Digest: 1E1KbJ5uJ2oguno74yVvXaDhyvH/AbURg97a092L6tg=
+
+Name: base/res/raw/pokemon95.ogg
+SHA-256-Digest: 3BChlSGdIoxg3mEEGBbJ04kWuFCWo/o5M2FBafLKZss=
+
+Name: base/res/raw/pokemon96.ogg
+SHA-256-Digest: 8DwYrYlT7Hb8rDW6sYW0GWwWt3k1heMKWzi4dy1XTxI=
+
+Name: base/res/raw/pokemon97.ogg
+SHA-256-Digest: rYdnQWdsifhD7gRvvsjb2rdZIWm+NfC9bZgL9NB9QRw=
+
+Name: base/res/raw/pokemon98.ogg
+SHA-256-Digest: T/CFaOtBe+6bEX4rQIVCfvguWYCI1r0ZGUoj3gDMT+k=
+
+Name: base/res/raw/pokemon99.ogg
+SHA-256-Digest: w48L8efUYVoivz0raAXfR8C7lyMKNrrOTLhk5kF/GIY=
+
+Name: base/res/xml/backup_rules.xml
+SHA-256-Digest: Vf1g5a0d0QcnfwkbaDDidtA2KAhvlCk6A3vn6xPhTn0=
+
+Name: base/res/xml/data_extraction_rules.xml
+SHA-256-Digest: WYeIgeABn9IR1HJ8YN2LUyhffYTK/v1PgTEKuJihS4o=
+
+Name: base/resources.pb
+SHA-256-Digest: hWpLkaxA9dt4e+x+tKyTzhVRXCkM/SxSnYQuqLt4hqg=
+
+Name: base/root/DebugProbesKt.bin
+SHA-256-Digest: rooILdYJMTg1upPD70eaOvmQOXfXvcgd9Fu9IJ7H0No=
+
+Name: base/root/META-INF/androidx.activity_activity-compose.version
+SHA-256-Digest: PrHvlLWJDKcnFYsQYUJoXIczsKzlvLTPPwrBT58GQ/Q=
+
+Name: base/root/META-INF/androidx.activity_activity-ktx.version
+SHA-256-Digest: PrHvlLWJDKcnFYsQYUJoXIczsKzlvLTPPwrBT58GQ/Q=
+
+Name: base/root/META-INF/androidx.activity_activity.version
+SHA-256-Digest: PrHvlLWJDKcnFYsQYUJoXIczsKzlvLTPPwrBT58GQ/Q=
+
+Name: base/root/META-INF/androidx.annotation_annotation-experimental.v
+ ersion
+SHA-256-Digest: ZNI/hY71Gw+Zbklm1OJ8A3G0N+LSeHiQsfetItTsVmM=
+
+Name: base/root/META-INF/androidx.appcompat_appcompat-resources.versio
+ n
+SHA-256-Digest: ZDCiQulIYJPvb3HZCG1I9huhAvDS+w9blTNMYAekbbM=
+
+Name: base/root/META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: G3xgY3AYhTTaxVYfuispiAk4KWl/zp5uiDLpKR0k7QA=
+
+Name: base/root/META-INF/androidx.autofill_autofill.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.compose.animation_animation-core.ver
+ sion
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.animation_animation.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.foundation_foundation-layout
+ .version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.foundation_foundation.versio
+ n
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.material3_material3.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.compose.material_material-icons-core
+ .version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: base/root/META-INF/androidx.compose.material_material-ripple.ver
+ sion
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: base/root/META-INF/androidx.compose.material_material.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: base/root/META-INF/androidx.compose.runtime_runtime-saveable.ver
+ sion
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.runtime_runtime.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.ui_ui-geometry.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.ui_ui-graphics.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.ui_ui-text.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.ui_ui-tooling-preview.versio
+ n
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.ui_ui-unit.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.ui_ui-util.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.compose.ui_ui.version
+SHA-256-Digest: Ru/q186QUKH2LtyOo4K0LSpNS2Q81rfcOQfFhRy7Cdw=
+
+Name: base/root/META-INF/androidx.core_core-ktx.version
+SHA-256-Digest: yS32vd4zC+IZ1i9I7GSQsBiJQ28vWQJ6qyAOdN5hkWg=
+
+Name: base/root/META-INF/androidx.core_core.version
+SHA-256-Digest: yS32vd4zC+IZ1i9I7GSQsBiJQ28vWQJ6qyAOdN5hkWg=
+
+Name: base/root/META-INF/androidx.customview_customview-poolingcontain
+ er.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.customview_customview.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.emoji2_emoji2.version
+SHA-256-Digest: ZNI/hY71Gw+Zbklm1OJ8A3G0N+LSeHiQsfetItTsVmM=
+
+Name: base/root/META-INF/androidx.exifinterface_exifinterface.version
+SHA-256-Digest: 9OquB8ct0AMCikWD7pPlFG5PsuW6gFZtPnnXPt057jY=
+
+Name: base/root/META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: 3+fXGz9Cjrc+2FP4/e1l4pholuIdafRevwa7YjtFDhQ=
+
+Name: base/root/META-INF/androidx.hilt_hilt-work.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-livedata-core-kt
+ x.version
+SHA-256-Digest: SwKBgvCOC7YhFX+OH826K3fhuIqqL84pFv4WCwV5ERE=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-livedata-core.ve
+ rsion
+SHA-256-Digest: R0AG0MyBAPjfxo2SafIzo0fCnrSjbYWcIKSVOqQdTfw=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-livedata-ktx.ver
+ sion
+SHA-256-Digest: M3ksUdSMKiUMj7u+YD69f7Q42wZ86nmLPxJmglMHbHA=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: j7FsJMmJArqZkXWI2/0DjfDZv4aTySVuK6mVLHi0SzM=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-process.version
+SHA-256-Digest: reGu+LCQg57BIsaWvpSd0WM8y6wivLGg+JW6zedPZv0=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-runtime-ktx.vers
+ ion
+SHA-256-Digest: 1IZAsUrTOqwdsLNcXRSqeUdUO3woKQGaY2DQwBVGous=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: QlfMy7o/eupSGkCTfRv91ZSfXz4e1onEAqTyl3EJAws=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-service.version
+SHA-256-Digest: f2+hN6XCj2kRQIpvptc8sduGsYE6xIlb/sYCkyayg/A=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-viewmodel-compos
+ e.version
+SHA-256-Digest: qQoyEIcUM6C27wymssEdUefyK/cXCaGu/46hGBNdx+w=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.ve
+ rsion
+SHA-256-Digest: AvLpy0UTGKnElaPQT+3pSDqHR1sDN04lDD3feafIi78=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-viewmodel-saveds
+ tate.version
+SHA-256-Digest: Qh/GNSi1dBWfurmIOzdnuFxvBzQV5PWKFmrNk3BtuQw=
+
+Name: base/root/META-INF/androidx.lifecycle_lifecycle-viewmodel.versio
+ n
+SHA-256-Digest: QF6fD4NlHKCX2slrU6nRSam28ciQ0jLh8+hrwD/MYrE=
+
+Name: base/root/META-INF/androidx.loader_loader.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.navigation_navigation-common-ktx.ver
+ sion
+SHA-256-Digest: 5qHriDuZs8w3Qfdk69w7Q0u49S+E5Duxxsq3+sZs28E=
+
+Name: base/root/META-INF/androidx.navigation_navigation-common.version
+SHA-256-Digest: 5qHriDuZs8w3Qfdk69w7Q0u49S+E5Duxxsq3+sZs28E=
+
+Name: base/root/META-INF/androidx.navigation_navigation-compose.versio
+ n
+SHA-256-Digest: 5qHriDuZs8w3Qfdk69w7Q0u49S+E5Duxxsq3+sZs28E=
+
+Name: base/root/META-INF/androidx.navigation_navigation-runtime-ktx.ve
+ rsion
+SHA-256-Digest: 5qHriDuZs8w3Qfdk69w7Q0u49S+E5Duxxsq3+sZs28E=
+
+Name: base/root/META-INF/androidx.navigation_navigation-runtime.versio
+ n
+SHA-256-Digest: 5qHriDuZs8w3Qfdk69w7Q0u49S+E5Duxxsq3+sZs28E=
+
+Name: base/root/META-INF/androidx.profileinstaller_profileinstaller.ve
+ rsion
+SHA-256-Digest: EOLhF7AVI4kconGmFa426dXlI0j9fWQvZnJ2AsG43L4=
+
+Name: base/root/META-INF/androidx.room_room-runtime.version
+SHA-256-Digest: cy9k2HT5B4jAGZsMGb/Zs7ZDbhQBFOU+RigyUy10xhw=
+
+Name: base/root/META-INF/androidx.savedstate_savedstate-ktx.version
+SHA-256-Digest: bPTghLR/M8mwLveSedFXgzho+PcFFBaadovjU+4yj+o=
+
+Name: base/root/META-INF/androidx.savedstate_savedstate.version
+SHA-256-Digest: bPTghLR/M8mwLveSedFXgzho+PcFFBaadovjU+4yj+o=
+
+Name: base/root/META-INF/androidx.sqlite_sqlite-framework.version
+SHA-256-Digest: pCyvSlS7vieqRbbvvGNWxeKZsZdj5yi2zbcgGwLrvjY=
+
+Name: base/root/META-INF/androidx.sqlite_sqlite.version
+SHA-256-Digest: pCyvSlS7vieqRbbvvGNWxeKZsZdj5yi2zbcgGwLrvjY=
+
+Name: base/root/META-INF/androidx.startup_startup-runtime.version
+SHA-256-Digest: zFL2eISLgUNzdXtGA4O/YZYOSUPCA3Na3eCjULPlCYk=
+
+Name: base/root/META-INF/androidx.tracing_tracing.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.vectordrawable_vectordrawable-animat
+ ed.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: base/root/META-INF/androidx.vectordrawable_vectordrawable.versio
+ n
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: base/root/META-INF/androidx.versionedparcelable_versionedparcela
+ ble.version
+SHA-256-Digest: zFL2eISLgUNzdXtGA4O/YZYOSUPCA3Na3eCjULPlCYk=
+
+Name: base/root/META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: base/root/META-INF/androidx.work_work-runtime-ktx.version
+SHA-256-Digest: yUthAbgu+/JNqAeVhARhOtm9fs/YdfWW+ChvqWOOSqU=
+
+Name: base/root/META-INF/androidx.work_work-runtime.version
+SHA-256-Digest: yUthAbgu+/JNqAeVhARhOtm9fs/YdfWW+ChvqWOOSqU=
+
+Name: base/root/META-INF/com.google.dagger_dagger-lint-aar.version
+SHA-256-Digest: P0lDTVNY+ukAAaZOzqrfcLEiAPxEmRkk97XEi/dRzY4=
+
+Name: base/root/META-INF/com.google.dagger_dagger.version
+SHA-256-Digest: P0lDTVNY+ukAAaZOzqrfcLEiAPxEmRkk97XEi/dRzY4=
+
+Name: base/root/META-INF/com.google.dagger_hilt-android.version
+SHA-256-Digest: P0lDTVNY+ukAAaZOzqrfcLEiAPxEmRkk97XEi/dRzY4=
+
+Name: base/root/META-INF/com.google.dagger_hilt-core.version
+SHA-256-Digest: P0lDTVNY+ukAAaZOzqrfcLEiAPxEmRkk97XEi/dRzY4=
+
+Name: base/root/META-INF/com/android/build/gradle/app-metadata.propert
+ ies
+SHA-256-Digest: EOyGcpF1Eary5NIofJjO9CGhKmeFjO/WYttu1Eo85o0=
+
+Name: base/root/META-INF/kotlinx_coroutines_android.version
+SHA-256-Digest: GLo805azBMO/br10Plrb2bm1sqQvVT5/dOC8+1SVoh8=
+
+Name: base/root/META-INF/kotlinx_coroutines_core.version
+SHA-256-Digest: GLo805azBMO/br10Plrb2bm1sqQvVT5/dOC8+1SVoh8=
+
+Name: base/root/META-INF/services/kotlinx.coroutines.CoroutineExceptio
+ nHandler
+SHA-256-Digest: MSm47fbbB95vj/R2leIXfIu6Tu0pYtMIXHGeWsu1ijM=
+
+Name: base/root/META-INF/services/kotlinx.coroutines.internal.MainDisp
+ atcherFactory
+SHA-256-Digest: oep36o+T9Bkla25m8pcT+VDY1ukEQrYI2ICkgAO163I=
+
+Name: base/root/kotlin-tooling-metadata.json
+SHA-256-Digest: Tu41FJoQb4ROAwBXazTCEXhKlAXYwsROIVqgOVbBeyQ=
+
+Name: base/root/kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: 5e7KY/TFY1Zg0wZXek4wkmgzUTy0fiDs6prmu8MSWZU=
+
+Name: base/root/kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: U5uFwkA/bvBjgWGtmd97ESVkEulBEzXtLqOTGj79fHY=
+
+Name: base/root/kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: WabWMrip9duibyponDhl4ZU1HffDwIqhZp/g35+euIM=
+
+Name: base/root/kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: x2two9sezL5C6pGlNmfXZh7fxhVAnT1uV0tYQ7HioF4=
+
+Name: base/root/kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: fyXmgtn4MncRKz25rfwdV33B0By/B2R39BYYD2eUUzw=
+
+Name: base/root/kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: K4d14aq9SpXb/EzZwMyf8DBYIC39nNfuWHW6Ppcg8ig=
+
+Name: base/root/kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: aoYFzmOjiXSsWVU2x1s4Xk5iyi9h11X+y1P8zYOEevc=
+
+Name: base/root/okhttp3/internal/publicsuffix/NOTICE
+SHA-256-Digest: ipxY+97V6jR0MV5KmCTKixSGCYoaA+iX4LGUGdXhh2o=
+
+Name: base/root/okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA-256-Digest: mvQ+mZXsdJ56MO7E5ah3cNfiAnhHCEoHzKggYO/wx5E=
+
